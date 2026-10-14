@@ -1,0 +1,692 @@
+{
+  "744000155353317": {
+    "id": "744000155353317",
+    "name": "Implementation Manager - Moveworks",
+    "uuid": "ea103c2f-6803-4e4d-a7ee-67696f941d89",
+    "jobId": "b7f1ceb4-84b3-4798-9c01-6a7cfa6a3037",
+    "jobAdId": "b5fab1a1-a1e7-4aba-b413-365c7b9b8d7e",
+    "defaultJobAd": true,
+    "refNumber": "JB0074513",
+    "company": {
+      "name": "ServiceNow",
+      "identifier": "ServiceNow"
+    },
+    "location": {
+      "city": "San Diego",
+      "region": "California",
+      "country": "us",
+      "address": "4810 Eastgate Mall",
+      "postalCode": "92121",
+      "remote": true,
+      "hybrid": false,
+      "fullLocation": "San Diego, California, United States"
+    },
+    "customField": [
+      {
+        "fieldId": "60345fa28b4ba8595bef1863",
+        "fieldLabel": "Recruiting Team",
+        "valueId": "professional",
+        "valueLabel": "Professional"
+      },
+      {
+        "fieldId": "60345e1a0b24a127cbdfa148",
+        "fieldLabel": "Employee Type",
+        "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+        "valueLabel": "Regular"
+      },
+      {
+        "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+        "fieldLabel": "Department",
+        "valueId": "2294004",
+        "valueLabel": "Customer Outcomes"
+      },
+      {
+        "fieldId": "COUNTRY",
+        "fieldLabel": "Country/Region",
+        "valueId": "us",
+        "valueLabel": "United States"
+      },
+      {
+        "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+        "fieldLabel": "Brands",
+        "valueId": "default",
+        "valueLabel": "ServiceNow"
+      },
+      {
+        "fieldId": "60345d5c5165a31b17288279",
+        "fieldLabel": "Region",
+        "valueId": "722a833b93e4437798309f43c0d25990",
+        "valueLabel": "AMS - North America and Canada"
+      },
+      {
+        "fieldId": "603462175165a31b1728827d",
+        "fieldLabel": "Cost Center",
+        "valueId": "CC2222",
+        "valueLabel": "2222 MVW Expert Services"
+      },
+      {
+        "fieldId": "6034601b43915a29a4b3389b",
+        "fieldLabel": "Job Location",
+        "valueId": "L_SAN003",
+        "valueLabel": "4810 Eastgate Mall, San Diego, California, 92121, United States of America(L_SAN003)"
+      },
+      {
+        "fieldId": "618ed92b8f5e5f110e5bfb95",
+        "fieldLabel": "Work Persona",
+        "valueId": "5530c877-6b63-4bf5-bde8-215ef35bf172",
+        "valueLabel": "Flexible or Remote"
+      },
+      {
+        "fieldId": "690cc0e8c682c3dbadaa7d73",
+        "fieldLabel": "Job Posting Type",
+        "valueId": "professional",
+        "valueLabel": "Professional"
+      }
+    ],
+    "releasedDate": "2026-10-13T20:12:40.297Z",
+    "creator": {
+      "name": "Laura Hettinger-Akpele",
+      "avatarUrl": ""
+    },
+    "postingUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000155353317-implementation-manager-moveworks",
+    "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000155353317-implementation-manager-moveworks?oga=true",
+    "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/ServiceNow/publication/ea103c2f-6803-4e4d-a7ee-67696f941d89?dcr_ci=ServiceNow",
+    "jobAd": {
+      "sections": {
+        "companyDescription": {
+          "title": "Company Description",
+          "text": "<p><strong>Moveworks</strong>&#xa0;is the Agentic AI Assistant platform that empowers the entire workforce.</p><p>Our platform enables employees to converse with all of their business systems through natural language to quickly find answers and automate tasks. Powered by the world's most advanced LLMs, our proprietary models, and a sophisticated Agentic AI platform, we're transforming how work gets done by allowing AI to take initiative, streamline complex workflows, and continuously learn and adapt.</p><p>Moveworks is trusted by over 5.5 million employees at more than 350 of the world’s largest companies, including 10% of the Fortune 500, to automate everyday tasks and streamline business operations. Recognized on the Forbes Cloud 100 and AI 50 lists, Moveworks was also named one of Fast Company’s 2025 Most Innovative Companies and Inc’s Best in Business, in the Best in Innovation category. Moveworks was also recognized at Microsoft’s 2025 Partner of the Year and in 2024, received the AI Breakthrough Award.</p><p>In December 2025, Moveworks was acquired by ServiceNow, marking a pivotal milestone in our journey to create a single front door to work for all business systems. By combining ServiceNow’s leading workflow automation with Moveworks’ Reasoning Engine and natural language capabilities, we deliver the AI platform for every person and every workflow. Built to go beyond basic summaries to deliver meaningful business impact. Together, our AI acts across enterprise systems to turn conversations into completed work.</p><p>By joining our team, you’ll be at the forefront of the AI transformation, backed by the global scale of ServiceNow and the agility of a high-growth company. We are looking for world-class talent to help us extend agentic AI to every employee across every corner of the business.</p><p><strong>ServiceNow</strong></p><p>It all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today — ServiceNow stands as a global market leader, bringing innovative AI-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work. But this is just the beginning of our journey. Join us as we pursue our purpose to make the world work better for everyone.</p>"
+        },
+        "jobDescription": {
+          "title": "Job Description",
+          "text": "<p>The Implementation Manager oversees the on-time, on-budget delivery of the Moveworks platform to meet the customer's desired results. This requires completing projects following leading practice methodology, working in collaboration with the customer project team and any involved partner, ensuring governance is followed to gain stakeholder support, including risk and issue mitigation. The Implementation Manager is responsible for assembling and leading project resources, ensuring they understand planned tasks, tracking progress, and managing deviations through appropriate measures.</p><p>What you get to do in this role:</p><ul><li>Lead customers through the initial implementation of Moveworks as well as new product offerings, often in collaboration with a services partner.</li><li>Manage the engagement governance, timeline, scope, risk, change management, resourcing, and reporting.</li><li>Help customers identify, map, build, and launch agentic workflows that drive business value.</li><li>Provide change management best practices to ensure successful adoption and organizational readiness.</li><li>Work with Sales, partners, and customers to understand the customer and the engagement, including challenges, issues, and value being delivered.</li><li>Understand customer goals and align deliverables accordingly.</li><li>Be the single point of contact to encourage collaboration and customer agreement on proposed solutions.</li><li>Mentor team members and partners to achieve engagement deliverables and promote the customer's desired results.</li><li>Identify gaps between actuals and plan of record, proposing solutions and driving resolutions.</li><li>Partner with the Product organization as a champion for customers, sharing insights from the field in product design and development cycles.</li><li>Partner with Customer Success Managers to ensure a seamless transition to post-launch engagement and support.</li></ul>"
+        },
+        "qualifications": {
+          "title": "Qualifications",
+          "text": "<p><strong>To be successful in this role you have:</strong></p><ul><li>Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry.&#xa0;</li><li>4+ years progressive experience leading software implementations (SaaS preferred) with enterprise customers; or equivalent education/experience.</li><li>Project management experience including scope control, budgeting, estimating, and resource management.</li><li>Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving.</li><li>Ability to creatively propose technical solutions to challenging problems and communicate technical concepts clearly and efficiently.</li><li>Process-focused with strong problem-solving ability—always searching for a smarter, better way to achieve a goal.</li><li>Experience building strong internal and external relationships, including with senior-level executives.</li><li>Creativity with comfort running projects independently.</li><li>Experience driving complex issues through analysis and resolution.</li><li>Experience working collaboratively across cross-functional team</li><li>Diplomatic, tactful, and poised under pressure.</li><li>Bachelor's degree.</li><li>Ability to travel up to 25% of the time.</li></ul><p>For positions in this location, we offer a base pay of <strong>$116,400 - $192,100</strong>, plus equity (when applicable), variable/incentive compensation and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the base pay shown is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies, and work location. We also offer health plans, including flexible spending accounts, a 401(k) Plan with company match, ESPP, matching donations, a flexible time away plan and family leave programs. Compensation is based on the geographic location in which the role is located and is subject to change based on work location.</p>"
+        },
+        "additionalInformation": {
+          "title": "Additional Information",
+          "text": "<p><strong>Work Personas</strong></p><p>We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. <a href=\"https://careers.servicenow.com/life-at-servicenow#workpersonas\" rel=\"noopener noreferrer\"><u>Learn more here</u></a>. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.</p><p><strong>Equal Opportunity Employer</strong></p><p>ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements.&#xa0;</p><p><strong>Accommodations</strong></p><p>We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact <a href=\"mailto:globaltalentss@servicenow.com\" rel=\"noopener noreferrer\">globaltalentss@servicenow.com </a>for assistance.&#xa0;</p><p><strong>Export Control Regulations</strong></p><p>For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.&#xa0;</p><p>From Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license.</p>"
+        }
+      }
+    },
+    "active": true,
+    "visibility": "PUBLIC",
+    "industry": {
+      "id": "it_and_services",
+      "label": "Information Technology And Services"
+    },
+    "function": {
+      "id": "consulting",
+      "label": "Consulting"
+    },
+    "department": {
+      "id": 2294004,
+      "label": "Customer Outcomes"
+    },
+    "experienceLevel": {
+      "id": "not_applicable",
+      "label": "Not Applicable"
+    },
+    "typeOfEmployment": {
+      "id": "permanent",
+      "label": "Full-time"
+    },
+    "language": {
+      "code": "en",
+      "label": "English",
+      "labelNative": "English (US)"
+    }
+  },
+  "744000155374109": {
+    "id": "744000155374109",
+    "name": "Staff Software Engineer",
+    "uuid": "540d1a6d-4910-48a6-85d2-18d9334c0fc5",
+    "jobId": "7c91d771-8ef1-4914-8a70-d98c112682c3",
+    "jobAdId": "0d812a41-338a-487d-9f08-14e614d31df8",
+    "defaultJobAd": true,
+    "refNumber": "JB0076150",
+    "company": {
+      "name": "ServiceNow",
+      "identifier": "ServiceNow"
+    },
+    "location": {
+      "city": "Santa Clara",
+      "region": "California",
+      "country": "us",
+      "address": "Building A,B,C 2225 Lawson Lane",
+      "postalCode": "95054",
+      "remote": false,
+      "hybrid": true,
+      "hybridDescription": "2 days in office",
+      "fullLocation": "Santa Clara, California, United States"
+    },
+    "customField": [
+      {
+        "fieldId": "60345fa28b4ba8595bef1863",
+        "fieldLabel": "Recruiting Team",
+        "valueId": "professional",
+        "valueLabel": "Professional"
+      },
+      {
+        "fieldId": "60345e1a0b24a127cbdfa148",
+        "fieldLabel": "Employee Type",
+        "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+        "valueLabel": "Regular"
+      },
+      {
+        "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+        "fieldLabel": "Department",
+        "valueId": "2294038",
+        "valueLabel": "Engineering, Infrastructure and Operations"
+      },
+      {
+        "fieldId": "COUNTRY",
+        "fieldLabel": "Country/Region",
+        "valueId": "us",
+        "valueLabel": "United States"
+      },
+      {
+        "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+        "fieldLabel": "Brands",
+        "valueId": "default",
+        "valueLabel": "ServiceNow"
+      },
+      {
+        "fieldId": "60345d5c5165a31b17288279",
+        "fieldLabel": "Region",
+        "valueId": "722a833b93e4437798309f43c0d25990",
+        "valueLabel": "AMS - North America and Canada"
+      },
+      {
+        "fieldId": "603462175165a31b1728827d",
+        "fieldLabel": "Cost Center",
+        "valueId": "CC6308",
+        "valueLabel": "6308 Platform Engineering App Lifecycle"
+      },
+      {
+        "fieldId": "6034601b43915a29a4b3389b",
+        "fieldLabel": "Job Location",
+        "valueId": "L_SJC005",
+        "valueLabel": "2225 Lawson Lane, Santa Clara, California, 95054, United States of America(L_SJC005)"
+      },
+      {
+        "fieldId": "618ed92b8f5e5f110e5bfb95",
+        "fieldLabel": "Work Persona",
+        "valueId": "bf7551c6-9b06-4e7c-8217-3baf43edd060",
+        "valueLabel": "Flexible"
+      },
+      {
+        "fieldId": "690cc0e8c682c3dbadaa7d73",
+        "fieldLabel": "Job Posting Type",
+        "valueId": "professional",
+        "valueLabel": "Professional"
+      }
+    ],
+    "releasedDate": "2026-10-13T22:50:18.633Z",
+    "creator": {
+      "name": "Tina Schneider",
+      "avatarUrl": "https://c.smartrecruiters.com/sr-employee-image-prod-aws-dc5/604d6223ade18d4b03f035da?r=s3-eu-central-1&_1620679915797"
+    },
+    "postingUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000155374109-staff-software-engineer",
+    "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000155374109-staff-software-engineer?oga=true",
+    "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/ServiceNow/publication/540d1a6d-4910-48a6-85d2-18d9334c0fc5?dcr_ci=ServiceNow",
+    "jobAd": {
+      "sections": {
+        "companyDescription": {
+          "title": "Company Description",
+          "text": "<p>It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster, and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started.</p><p>Join us to put AI to work for people.</p><p>&#xa0;</p>"
+        },
+        "jobDescription": {
+          "title": "Job Description",
+          "text": "<ul><li>Build high-quality, clean, scalable , and reusable code by enforcing best practices around software engineering architecture and processes (Code Reviews, Unit testing, etc.)</li><li>Partner with developers and product owners to understand requirements and own your code from design, implementation, test automation, and delivery of high-quality product to our users.</li><li>Help design software that is simple to use to allow customers to extend and customize the functionality to meet their specific needs.</li><li>Help design and implement new products and features while also enhancing the existing product suite.</li></ul><p><strong>To be successful in this role, you have:</strong></p><ul><li>Passion&#xa0;for learning and applying AI to solve developer needs.</li><li>Passion for writing code in Java and leveraging the web as a platform, with a strong focus on reusability and componentization.</li><li>Experience with data structures, algorithms, object-oriented design, design patterns, and performance/scale considerations.</li><li>Experience with any of the modern UI frameworks like React.</li><li>Analytical and design skills.</li><li>Working knowledge and ability to use tools to assist with daily tasks (IDE, debugger, build tools, source control, ServiceNow instances, profilers, system administration/Unix tools).</li></ul>"
+        },
+        "qualifications": {
+          "title": "Qualifications",
+          "text": "<p>&#xa0;</p><ul><li>Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving.This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry.</li><li>Experience in using AI Productivity tools such as Windsurf, Cursor, etc is a plus or nice to have.</li><li>10+ years of experience with Java, JavaScript/TypeScript, NodeJS</li></ul><p>&#xa0;</p><p>For positions in this location, we offer a base pay of <strong>$166,500 - $291,400</strong>, plus equity (when applicable), variable/incentive compensation and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the base pay shown is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies, and work location. We also offer health plans, including flexible spending accounts, a 401(k) Plan with company match, ESPP, matching donations, a flexible time away plan and family leave programs. Compensation is based on the geographic location in which the role is located and is subject to change based on work location.</p>"
+        },
+        "additionalInformation": {
+          "title": "Additional Information",
+          "text": "<p><strong>Work Personas</strong></p><p>We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. <a href=\"https://careers.servicenow.com/life-at-servicenow#workpersonas\" rel=\"noopener noreferrer\"><u>Learn more here</u></a>. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.</p><p><strong>Equal Opportunity Employer</strong></p><p>ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity,&#xa0; veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements. &#xa0;</p><p><strong>Accommodations</strong></p><p>We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact <a href=\"mailto:globaltalentss@servicenow.com\" rel=\"noopener noreferrer\">globaltalentss@servicenow.com </a>for assistance.&#xa0;</p><p><strong>Export Control Regulations</strong></p><p>For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.&#xa0;</p><p>From Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license.</p>"
+        }
+      }
+    },
+    "active": true,
+    "visibility": "PUBLIC",
+    "industry": {
+      "id": "it_and_services",
+      "label": "Information Technology And Services"
+    },
+    "function": {
+      "id": "engineering",
+      "label": "Engineering"
+    },
+    "department": {
+      "id": 2294038,
+      "label": "Engineering, Infrastructure and Operations"
+    },
+    "experienceLevel": {
+      "id": "not_applicable",
+      "label": "Not Applicable"
+    },
+    "typeOfEmployment": {
+      "id": "permanent",
+      "label": "Full-time"
+    },
+    "language": {
+      "code": "en",
+      "label": "English",
+      "labelNative": "English (US)"
+    }
+  },
+  "744000155398439": {
+    "id": "744000155398439",
+    "name": "Advisory Pre-Sales Solution Consultant - Enterprise",
+    "uuid": "d0d4ce5f-bff2-4c89-9545-5e65db99bb5f",
+    "jobId": "1eaee31f-9603-400a-84e7-c09f593d1fa2",
+    "jobAdId": "48c989ba-a403-468c-a4a3-7f4139b7b8ea",
+    "defaultJobAd": true,
+    "refNumber": "JB0075995",
+    "company": {
+      "name": "ServiceNow",
+      "identifier": "ServiceNow"
+    },
+    "location": {
+      "city": "Melbourne",
+      "region": "Victoria",
+      "country": "au",
+      "address": "Olderfleet, Level 16, 477 Collins Street",
+      "postalCode": "3000",
+      "remote": false,
+      "hybrid": true,
+      "fullLocation": "Melbourne, Victoria, Australia"
+    },
+    "customField": [
+      {
+        "fieldId": "60345fa28b4ba8595bef1863",
+        "fieldLabel": "Recruiting Team",
+        "valueId": "professional",
+        "valueLabel": "Professional"
+      },
+      {
+        "fieldId": "60345e1a0b24a127cbdfa148",
+        "fieldLabel": "Employee Type",
+        "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+        "valueLabel": "Regular"
+      },
+      {
+        "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+        "fieldLabel": "Department",
+        "valueId": "2294208",
+        "valueLabel": "Sales"
+      },
+      {
+        "fieldId": "COUNTRY",
+        "fieldLabel": "Country/Region",
+        "valueId": "au",
+        "valueLabel": "Australia"
+      },
+      {
+        "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+        "fieldLabel": "Brands",
+        "valueId": "default",
+        "valueLabel": "ServiceNow"
+      },
+      {
+        "fieldId": "60345d5c5165a31b17288279",
+        "fieldLabel": "Region",
+        "valueId": "858884996eea4a49baa6231279f39054",
+        "valueLabel": "APAC - Asia Pacific"
+      },
+      {
+        "fieldId": "603462175165a31b1728827d",
+        "fieldLabel": "Cost Center",
+        "valueId": "CC3300",
+        "valueLabel": "3300 SC Field"
+      },
+      {
+        "fieldId": "6034601b43915a29a4b3389b",
+        "fieldLabel": "Job Location",
+        "valueId": "L_SYD002",
+        "valueLabel": "680 George Street, Sydney, 2000, Australia(L_SYD002)"
+      },
+      {
+        "fieldId": "618ed92b8f5e5f110e5bfb95",
+        "fieldLabel": "Work Persona",
+        "valueId": "bf7551c6-9b06-4e7c-8217-3baf43edd060",
+        "valueLabel": "Flexible"
+      },
+      {
+        "fieldId": "690cc0e8c682c3dbadaa7d73",
+        "fieldLabel": "Job Posting Type",
+        "valueId": "professional",
+        "valueLabel": "Professional"
+      }
+    ],
+    "releasedDate": "2026-10-14T01:26:24.946Z",
+    "creator": {
+      "name": "",
+      "avatarUrl": ""
+    },
+    "postingUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000155398439-advisory-pre-sales-solution-consultant-enterprise",
+    "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000155398439-advisory-pre-sales-solution-consultant-enterprise?oga=true",
+    "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/ServiceNow/publication/d0d4ce5f-bff2-4c89-9545-5e65db99bb5f?dcr_ci=ServiceNow",
+    "jobAd": {
+      "sections": {
+        "companyDescription": {
+          "title": "Company Description",
+          "text": "<p>It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster, and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started.</p><p>Join us to put AI to work for people.</p><p>&#xa0;</p>"
+        },
+        "jobDescription": {
+          "title": "Job Description",
+          "text": "<p><strong>Location: </strong>Sydney or Melbourne<br>\n<br>\n<strong>Why ServiceNow</strong></p><p>AI is changing how enterprises run, and ServiceNow is where it gets put to work. Our platform connects people, data, workflows and AI agents across the whole organisation, so customers get outcomes, not just insights. We're a team that stays hungry and humble, wows customers, creates belonging and wins together.</p><p><strong>About this role</strong></p><p>Great ideas don't win Enterprise deals. Great ideas you can <em>see working</em> do.</p><p>As an Advisory Presales Solution Consultant, you'll work alongside account teams to help some of Australia's biggest organisations solve real business problems on the ServiceNow AI Platform. You'll guide customers from the first conversation to confident decisions, and you'll have the room to try bold ideas, learn fast and make an impact that shows.</p><p>&#xa0;</p><p><strong>What you will do</strong></p><ul><li><strong>Wow our customers:</strong> Dig into the challenges behind transformation, efficiency, regulation and resilience, and shape solutions that deliver measurable outcomes.</li><li><strong>Build to show, not tell:</strong> Use ServiceNow's own tools to create live, tailored demos and prototypes that bring a customer's scenario to life. Skip the slide deck, and let the platform do the talking.</li><li><strong>Advise executives:</strong> Hold regular conversations with senior leaders and help them define outcomes and business value.</li><li><strong>Shape strategy:</strong> Partner with sales colleagues on account and contribute to opportunity planning.</li><li><strong>Experiment with AI:</strong> Prototype AI and agentic workflows, test what's possible and show customers where it can take them.</li><li><strong>Lead proofs of value:</strong> Run POV and POC cycles, and respond to RFIs and RFPs.</li><li><strong>Win as a team:</strong> Work across Sales, Product, Professional Services and partners, and hand over well so customers are set up for success.</li><li><strong>Stay hungry:</strong> Keep up with product releases, roadmaps and the competitive landscape, and share what you learn with your peers.</li><li><strong>Represent ServiceNow:</strong> Speak at executive briefings, events and webinars.</li></ul>"
+        },
+        "qualifications": {
+          "title": "Qualifications",
+          "text": "<p><strong>What you bring </strong></p><ul><li>Experience in presales, consulting, solution architecture or a similar hands-on role in enterprise technology</li><li>Confidence engaging senior stakeholders and a knack for storytelling, strong demonstration and presentation skills</li><li>A love of building: you're happiest when you're making something work and showing someone what it can do</li><li>Hands on experience with AI, automation or low code tools, and an interest in the evolving AI landscape</li><li>Real curiosity and a low ego, always learning mindset. You don't need to know the platform yet, but you'll want to learn it fast</li><li>The ability to translate business needs into clear, compelling solutions</li><li>A collaborative style that lifts the people around you<br>\n&#xa0;</li></ul><p><strong>Desirable </strong></p><ul><li>ServiceNow, platform, workflow &amp; ITSM experience</li><li>Industry knowledge in key Australian sectors such as financial services, government, telco, resources or retail</li></ul><p><strong>Create belonging</strong></p><p>We do our best work when people bring different backgrounds, perspectives and ways of thinking. If you don't tick every box but you're curious, energetic and keen to build, we'd love to hear from you.</p>"
+        },
+        "additionalInformation": {
+          "title": "Additional Information",
+          "text": "<p><strong>Work Personas</strong></p><p>We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. <a href=\"https://careers.servicenow.com/life-at-servicenow#workpersonas\" rel=\"noopener noreferrer\"><u>Learn more here</u></a>. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.</p><p><strong>Equal Opportunity Employer</strong></p><p>ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity,&#xa0; veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements. &#xa0;</p><p><strong>Accommodations</strong></p><p>We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact <a href=\"mailto:globaltalentss@servicenow.com\" rel=\"noopener noreferrer\">globaltalentss@servicenow.com </a>for assistance.&#xa0;</p><p><strong>Export Control Regulations</strong></p><p>For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.&#xa0;</p><p>From Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license.</p>"
+        }
+      }
+    },
+    "active": true,
+    "visibility": "PUBLIC",
+    "industry": {
+      "id": "it_and_services",
+      "label": "Information Technology And Services"
+    },
+    "function": {
+      "id": "consulting",
+      "label": "Consulting"
+    },
+    "department": {
+      "id": 2294208,
+      "label": "Sales"
+    },
+    "experienceLevel": {
+      "id": "not_applicable",
+      "label": "Not Applicable"
+    },
+    "typeOfEmployment": {
+      "id": "permanent",
+      "label": "Full-time"
+    },
+    "language": {
+      "code": "en",
+      "label": "English",
+      "labelNative": "English (US)"
+    }
+  },
+  "744000155375219": {
+    "id": "744000155375219",
+    "name": "Senior Manager, Partner Led Channel & Growth Operations",
+    "uuid": "3365d08a-d92e-4a6e-84c9-2808b4bbcc7e",
+    "jobId": "a0224c86-265d-4027-a849-2420ccda05f8",
+    "jobAdId": "51a3257c-49d4-48a6-9c3b-a7db527e9f5f",
+    "defaultJobAd": true,
+    "refNumber": "JB0075981",
+    "company": {
+      "name": "ServiceNow",
+      "identifier": "ServiceNow"
+    },
+    "location": {
+      "city": "San Diego",
+      "region": "California",
+      "country": "us",
+      "address": "4810 Eastgate Mall",
+      "postalCode": "92121",
+      "remote": false,
+      "hybrid": false,
+      "fullLocation": "San Diego, California, United States"
+    },
+    "customField": [
+      {
+        "fieldId": "60345fa28b4ba8595bef1863",
+        "fieldLabel": "Recruiting Team",
+        "valueId": "professional",
+        "valueLabel": "Professional"
+      },
+      {
+        "fieldId": "60345e1a0b24a127cbdfa148",
+        "fieldLabel": "Employee Type",
+        "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+        "valueLabel": "Regular"
+      },
+      {
+        "fieldId": "COUNTRY",
+        "fieldLabel": "Country/Region",
+        "valueId": "us",
+        "valueLabel": "United States"
+      },
+      {
+        "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+        "fieldLabel": "Brands",
+        "valueId": "default",
+        "valueLabel": "ServiceNow"
+      },
+      {
+        "fieldId": "60345d5c5165a31b17288279",
+        "fieldLabel": "Region",
+        "valueId": "722a833b93e4437798309f43c0d25990",
+        "valueLabel": "AMS - North America and Canada"
+      },
+      {
+        "fieldId": "603462175165a31b1728827d",
+        "fieldLabel": "Cost Center",
+        "valueId": "CC3550",
+        "valueLabel": "3550 ACE Business Operations"
+      },
+      {
+        "fieldId": "6034601b43915a29a4b3389b",
+        "fieldLabel": "Job Location",
+        "valueId": "L_SAN003",
+        "valueLabel": "4810 Eastgate Mall, San Diego, California, 92121, United States of America(L_SAN003)"
+      },
+      {
+        "fieldId": "618ed92b8f5e5f110e5bfb95",
+        "fieldLabel": "Work Persona",
+        "valueId": "5530c877-6b63-4bf5-bde8-215ef35bf172",
+        "valueLabel": "Flexible or Remote"
+      },
+      {
+        "fieldId": "690cc0e8c682c3dbadaa7d73",
+        "fieldLabel": "Job Posting Type",
+        "valueId": "professional",
+        "valueLabel": "Professional"
+      }
+    ],
+    "releasedDate": "2026-10-13T23:04:19.987Z",
+    "creator": {
+      "name": "",
+      "avatarUrl": ""
+    },
+    "postingUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000155375219-senior-manager-partner-led-channel-growth-operations",
+    "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000155375219-senior-manager-partner-led-channel-growth-operations?oga=true",
+    "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/ServiceNow/publication/3365d08a-d92e-4a6e-84c9-2808b4bbcc7e?dcr_ci=ServiceNow",
+    "jobAd": {
+      "sections": {
+        "companyDescription": {
+          "title": "Company Description",
+          "text": "<p>It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster, and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started.</p><p>Join us to put AI to work for people.</p><p>&#xa0;</p>"
+        },
+        "jobDescription": {
+          "title": "Job Description",
+          "text": "<p>ServiceNow is looking for a Senior Manager, Partner Led Channel &amp; Growth Operations to wear three critical hats across AMS GPC: incubating Partner Led Channel as a new business model in AMS, supporting Canada operations as a business partner, and enabling Major Area Strategists to drive pipeline growth and partner presence in AMS Major Areas. This is a high-impact, multi-dimensional role that sits at the intersection of new business model enablement, operational excellence, and strategic growth support. You'll work with Global Operations, a new PLC leader, regional operations, and strategists to make this portfolio execute.</p><p><em><strong>What You'll Own</strong></em></p><p><strong>Partner Led Channel Incubation &amp; Enablement (40%)</strong></p><ul><li>Global Ops alignment: Partner with Global Operations to understand PLC operating model, business requirements, and operational structure. Translate Global model to AMS context.</li><li>Systems &amp; process definition: Understand how PLC operates within our backend systems, define data flows, deal routing, partner hierarchy, and operational workflows that enable the model.</li><li>New leader enablement: Work with new PLC leader to understand their business priorities, operational needs, and scaling plans. Help them navigate AMS operational infrastructure and best practices.</li><li>Operational roadmap: Support the PLC launch/ramp plan for AMS—what systems get configured when, what processes need to be in place, staffing/capacity planning. Work with leader to execute roadmap and enable team.</li><li>Cross-org coordination: Coordinate with Data &amp; Systems team, Finance, IT, and other stakeholders to ensure PLC can operate smoothly within AMS infrastructure.</li></ul><p><strong>Canada Sales Operations &amp; Execution (30%)</strong></p><ul><li>Forecasting discipline: Manage weekly/monthly forecast submission, validation, and accuracy. Own forecast quality and integrity.</li><li>Deal review coaching: Support deal reviews with Canada leader and team. Diagnose deal health, identify risks, surface pull-in candidates.</li><li>Pipeline intelligence: Track pipeline composition, stage velocity, sourced vs. sell-through. Surface early-warning signals on stalled deals.</li><li>Performance management: Coordinate quarterly/annual performance management—MBO setting, attainment tracking, individual conversations.</li><li>Operational discipline: Ensure agreed-upon sales processes are followed. Escalate issues to Partner Operations team.</li></ul><p><strong>Major Area Strategist Support &amp; Pipeline Growth (30%)</strong></p><ul><li>Forecast &amp; QBR support: Support Major Area Strategists for forecasting calls and QBRs. Gather data, surface trends, prepare executive briefs.</li><li>Deal tracking &amp; intelligence: Maintain visibility into strategic deals for each strategist. Surface pipeline risks, opportunities, and acceleration candidates. Provide deal-level coaching.</li><li>Pipeline analytics: Build self-serve data views and scorecards for strategist's portfolios. Track growth metrics and NNL attainment. Surface insights to drive growth strategy.</li><li>Counsel &amp; advisory: Be a sounding board for strategists on deals, strategy, and operational challenges. Provide market/competitive intelligence as needed.</li></ul><p><strong>Key Relationships</strong></p><ul><li>Head of AMS GPC Business Operations (your manager)</li><li>PLC Leader (new to AMS, building PLC business)</li><li>Canada Leader (operational partnership)</li><li>Major Area Strategists (2 current, expanding in 2027)</li><li>Senior Manager, Partner Operations Infrastructure (operational standards/escalations)</li><li>Global Partner Led Channel Operations team (PLC model alignment)</li><li>Data &amp; Systems team (PLC systems enablement)</li><li>Field Business Partners (coordination)</li></ul>"
+        },
+        "qualifications": {
+          "title": "Qualifications",
+          "text": "<p><em><strong>What You Bring</strong></em></p><p><strong>Required Experience</strong></p><ul><li>7+ years in sales operations, sales management, or business operations roles.</li><li>2+ years directly supporting sales leaders or strategic teams as a business partner.</li><li>Experience launching or scaling new business models or sales motions.</li><li>Deep expertise in sales forecasting, deal review processes, and pipeline management.</li><li>Strong analytical mindset. You can pull data, diagnose issues, and identify growth opportunities.</li><li>Advanced Excel and BI tools proficiency (Tableau, Power BI, or similar).</li><li>Excellent communication and executive presence.</li><li>Balance of operational discipline and strategic thinking.</li><li>Cross-functional collaboration (Finance, IT, Sales Leadership, Global Operations).</li></ul><p><strong>Preferred Qualifications</strong></p><ul><li>Partner/channel sales operations or management experience.</li><li>Experience with SaaS or enterprise software sales operations.</li><li>Track record scaling new business models or sales organizations.</li><li>Familiarity with CRM systems and sales forecasting tools.</li><li>Experience working across multiple geographies or business units.</li><li>Executive-level communication and strategic advisory experience.</li></ul><p><strong>Character Traits</strong></p><ul><li>Comfortable with ambiguity. PLC is new. You can work with incomplete information and incomplete processes to figure out what works.</li><li>Business-minded strategist. You think about growth, market dynamics, and outcomes—not just processes.</li><li>Execution-oriented. You drive action across multiple priorities without losing focus.</li><li>Collaborative and curious. You ask great questions, listen actively, and help leaders think through complex problems.</li><li>Clear communicator. You translate complexity into simple language. Your analysis is actionable.</li><li>Resilient and adaptable. You handle changing priorities and ambiguity without losing momentum.</li><li>Trusted advisor. Leaders trust you with confidences and strategic challenges.</li></ul><p><strong>Why This Role Matters</strong></p><p>Partner Led Channel is a new growth engine for AMS. Getting the operational model and systems right is critical to its success. Simultaneously, Canada and Major Area Strategists are scaling portfolios with complex growth dynamics. This role directly impacts PLC's ability to launch successfully, Canada's operational health, and strategists' ability to execute on growth. You'll be a trusted operational and strategic partner across all three.</p><p><strong>What We Offer</strong></p><ul><li>Competitive compensation and benefits for IC5 level.</li><li>The opportunity to incubate a new business model and own its operational success in AMS.</li><li>Exposure to strategic growth initiatives, new business model enablement, and complex portfolio management.</li><li>High visibility and cross-functional influence—working with Global Ops, leadership, and strategists.</li><li>Clear growth path: Strong performers move into Head of Operations, VP of Operations, or Chief of Staff roles.</li><li>A team that values strategic thinking, operational excellence, and calculated risk-taking</li></ul><p>&#xa0;</p><p>JV20</p><p>For positions in this location, we offer a base pay of <strong>$139,900 - $244,800</strong>, plus equity (when applicable), variable/incentive compensation and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the base pay shown is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies, and work location. We also offer health plans, including flexible spending accounts, a 401(k) Plan with company match, ESPP, matching donations, a flexible time away plan and family leave programs. Compensation is based on the geographic location in which the role is located and is subject to change based on work location.</p>"
+        },
+        "additionalInformation": {
+          "title": "Additional Information",
+          "text": "<p><strong>Work Personas</strong></p><p>We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. <a href=\"https://careers.servicenow.com/life-at-servicenow#workpersonas\" rel=\"noopener noreferrer\"><u>Learn more here</u></a>. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.</p><p><strong>Equal Opportunity Employer</strong></p><p>ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity,&#xa0; veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements. &#xa0;</p><p><strong>Accommodations</strong></p><p>We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact <a href=\"mailto:globaltalentss@servicenow.com\" rel=\"noopener noreferrer\">globaltalentss@servicenow.com </a>for assistance.&#xa0;</p><p><strong>Export Control Regulations</strong></p><p>For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.&#xa0;</p><p>From Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license.</p>"
+        }
+      }
+    },
+    "active": true,
+    "visibility": "PUBLIC",
+    "industry": {
+      "id": "it_and_services",
+      "label": "Information Technology And Services"
+    },
+    "function": {
+      "id": "sales",
+      "label": "Sales"
+    },
+    "experienceLevel": {
+      "id": "not_applicable",
+      "label": "Not Applicable"
+    },
+    "typeOfEmployment": {
+      "id": "permanent",
+      "label": "Full-time"
+    },
+    "language": {
+      "code": "en",
+      "label": "English",
+      "labelNative": "English (US)"
+    }
+  },
+  "744000155363900": {
+    "id": "744000155363900",
+    "name": "Senior Sales Enablement Manager- Moveworks",
+    "uuid": "2073c906-574d-46bc-aeaa-247e4334d7e3",
+    "jobId": "ced04ab5-5543-4ee6-bc02-9973cfd68de8",
+    "jobAdId": "53bb5487-3b0d-4ebb-ab6c-d8726bf992f1",
+    "defaultJobAd": true,
+    "refNumber": "JB0073829",
+    "company": {
+      "name": "ServiceNow",
+      "identifier": "ServiceNow"
+    },
+    "location": {
+      "city": "London",
+      "country": "gb",
+      "address": "60 – 68 St Thomas Street EDGE London Bridge",
+      "postalCode": "SE1 3QU",
+      "remote": false,
+      "hybrid": true,
+      "fullLocation": "London, , United Kingdom"
+    },
+    "customField": [
+      {
+        "fieldId": "60345fa28b4ba8595bef1863",
+        "fieldLabel": "Recruiting Team",
+        "valueId": "professional",
+        "valueLabel": "Professional"
+      },
+      {
+        "fieldId": "60345e1a0b24a127cbdfa148",
+        "fieldLabel": "Employee Type",
+        "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+        "valueLabel": "Regular"
+      },
+      {
+        "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+        "fieldLabel": "Department",
+        "valueId": "2294208",
+        "valueLabel": "Sales"
+      },
+      {
+        "fieldId": "COUNTRY",
+        "fieldLabel": "Country/Region",
+        "valueId": "gb",
+        "valueLabel": "United Kingdom"
+      },
+      {
+        "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+        "fieldLabel": "Brands",
+        "valueId": "default",
+        "valueLabel": "ServiceNow"
+      },
+      {
+        "fieldId": "60345d5c5165a31b17288279",
+        "fieldLabel": "Region",
+        "valueId": "395ee3093de740ba9cb8b3d35cb67e2d",
+        "valueLabel": "EMEA - Europe, Middle East and Africa"
+      },
+      {
+        "fieldId": "603462175165a31b1728827d",
+        "fieldLabel": "Cost Center",
+        "valueId": "CC6754",
+        "valueLabel": "6754 MVW Admin"
+      },
+      {
+        "fieldId": "6034601b43915a29a4b3389b",
+        "fieldLabel": "Job Location",
+        "valueId": "L_LON001",
+        "valueLabel": "8 Salisbury Square, London, EC4Y 8BB, United Kingdom(L_LON001)"
+      },
+      {
+        "fieldId": "618ed92b8f5e5f110e5bfb95",
+        "fieldLabel": "Work Persona",
+        "valueId": "bf7551c6-9b06-4e7c-8217-3baf43edd060",
+        "valueLabel": "Flexible"
+      },
+      {
+        "fieldId": "690cc0e8c682c3dbadaa7d73",
+        "fieldLabel": "Job Posting Type",
+        "valueId": "professional",
+        "valueLabel": "Professional"
+      }
+    ],
+    "releasedDate": "2026-10-13T21:12:20.690Z",
+    "creator": {
+      "name": "",
+      "avatarUrl": ""
+    },
+    "postingUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000155363900-senior-sales-enablement-manager-moveworks",
+    "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000155363900-senior-sales-enablement-manager-moveworks?oga=true",
+    "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/ServiceNow/publication/2073c906-574d-46bc-aeaa-247e4334d7e3?dcr_ci=ServiceNow",
+    "jobAd": {
+      "sections": {
+        "companyDescription": {
+          "title": "Company Description",
+          "text": "<p>Moveworks&#xa0;is the Agentic AI Assistant platform that empowers the entire workforce.&#xa0;</p><p>Our platform enables employees to converse with&#xa0;all of&#xa0;their business systems through natural language to quickly find answers and automate tasks. Powered by the world's most advanced LLMs, our proprietary models, and a sophisticated Agentic AI platform,&#xa0;we're&#xa0;transforming how work gets done by allowing AI to take initiative, streamline complex workflows, and continuously learn and adapt.&#xa0;</p><p>Moveworks&#xa0;is trusted by over 5.5 million employees at more than 350 of the world’s largest companies, including 10% of the Fortune 500, to automate everyday tasks and streamline business operations. Recognized on the Forbes Cloud 100 and AI 50 lists,&#xa0;Moveworks&#xa0;was also named one of Fast Company’s 2025 Most Innovative Companies and Inc’s Best in Business, in the Best in Innovation category.&#xa0;Moveworks&#xa0;was also recognized at Microsoft’s 2025 Partner of the Year and in 2024, received the AI Breakthrough Award.&#xa0;</p><p>In December 2025,&#xa0;Moveworks&#xa0;was&#xa0;acquired&#xa0;by ServiceNow, marking a pivotal milestone in our journey to create a single front door to work for all business systems. By combining ServiceNow’s standard-setting workflow automation with&#xa0;Moveworks’ Reasoning Engine and natural language capabilities, we deliver the AI platform for every person and every workflow. Built to go beyond basic summaries to deliver meaningful business impact. Together, our AI acts across enterprise systems to turn conversations into completed work.&#xa0;</p><p>By joining our team,&#xa0;you’ll&#xa0;be at the forefront of the AI transformation, backed by the global scale of ServiceNow and the agility of a high-growth company. We are looking for world-class talent to help us extend agentic AI to every employee across every corner of the business.&#xa0;</p><p>Come join us!&#xa0;</p><p><strong>ServiceNow&#xa0;</strong></p><p>It all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today — ServiceNow stands as a global market leader, bringing innovative AI-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work. But this is just the beginning of our journey. Join us as we pursue our purpose to make the world work better for everyone.&#xa0;</p>"
+        },
+        "jobDescription": {
+          "title": "Job Description",
+          "text": "<p>We are seeking a seasoned Senior Sales Enablement Manager to support our field GTM teams, including Sales, Presales, and partner-facing roles. You will take complex requirements and centrally&#xa0;built&#xa0;content, package it for in-region delivery, and tailor it to the specific audience in the room.&#xa0;This role spans preboarding,&#xa0;preboarding,&#xa0;onboarding, ramp, and ongoing enablement.&#xa0;</p><p><strong>What&#xa0;you get to do in this role:&#xa0;</strong></p><ul><li><p>Own the end-to-end enablement strategy for the region, from needs assessment through design, delivery, reinforcement, and measurement.&#xa0;</p></li></ul><ul><li><p>Take complex product, packaging, and process requirements and turn them into clear, usable enablement for the field.&#xa0;</p></li></ul><ul><li><p>Repackage and redeliver globally built content in region, adjusting for market context, local go-to-market motions, and time zones.&#xa0;</p></li></ul><ul><li><p>Tailor depth, format, and delivery to the audience, from new hire ramp through experienced sellers, presales, and frontline managers.&#xa0;</p></li></ul><ul><li><p>Design and&#xa0;facilitate&#xa0;live sessions, workshops, and on-demand content that hold up across roles and regions.&#xa0;</p></li></ul><ul><li><p>Run the in-region&#xa0;enablement&#xa0;cadence, including calendar, communications, and stakeholder alignment.&#xa0;</p></li></ul><ul><li><p>Work cross functionally in a matrix organization, aligning global program owners, product, and regional GTM leaders on strategy, sequencing, and execution.&#xa0;</p></li></ul><ul><li><p>Measure program efficacy at both program and audience impact&#xa0;levels, and&#xa0;connect enablement to pipeline and revenue outcomes.&#xa0;</p></li></ul>"
+        },
+        "qualifications": {
+          "title": "Qualifications",
+          "text": "<p><strong>To be successful in this role you have:&#xa0;</strong></p><ul><li><p>8+ years in GTM or sales enablement, SaaS focused.&#xa0;</p></li><li><p>Strong understanding of Sales, Presales, BDR, and related teams’ dynamics.&#xa0;</p></li><li><p>Technical acumen to support technical audiences.&#xa0;</p></li><li><p>Exceptional stakeholder management across senior GTM leaders, global program owners, and cross functional partners.&#xa0;</p></li></ul><ul><li><p>Data driven mindset, comfortable defining success measures and reporting on program and business impact.&#xa0;</p></li></ul><ul><li><p>Regional&#xa0;expertise, with working knowledge of&#xa0;local&#xa0;market and go-to-market dynamics.&#xa0;&#xa0;</p></li></ul><p><strong>Preferred:&#xa0;</strong></p><ul><li><p>Experience with AI tools and an understanding of AI technologies.</p></li></ul>"
+        },
+        "additionalInformation": {
+          "title": "Additional Information",
+          "text": "<p><strong>Work Personas</strong></p><p>We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. <a href=\"https://careers.servicenow.com/life-at-servicenow#workpersonas\" rel=\"noopener noreferrer\"><u>Learn more here</u></a>. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.</p><p><strong>Equal Opportunity Employer</strong></p><p>ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity,&#xa0; veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements. &#xa0;</p><p><strong>Accommodations</strong></p><p>We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact <a href=\"mailto:globaltalentss@servicenow.com\" rel=\"noopener noreferrer\">globaltalentss@servicenow.com </a>for assistance.&#xa0;</p><p><strong>Export Control Regulations</strong></p><p>For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.&#xa0;</p><p>From Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license.</p>"
+        }
+      }
+    },
+    "active": true,
+    "visibility": "PUBLIC",
+    "industry": {
+      "id": "it_and_services",
+      "label": "Information Technology And Services"
+    },
+    "function": {
+      "id": "sales",
+      "label": "Sales"
+    },
+    "department": {
+      "id": 2294208,
+      "label": "Sales"
+    },
+    "experienceLevel": {
+      "id": "not_applicable",
+      "label": "Not Applicable"
+    },
+    "typeOfEmployment": {
+      "id": "permanent",
+      "label": "Full-time"
+    },
+    "language": {
+      "code": "en",
+      "label": "English",
+      "labelNative": "English (US)"
+    }
+  }
+}

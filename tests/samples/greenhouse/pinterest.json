@@ -1,0 +1,345 @@
+{
+  "jobs": [
+    {
+      "absolute_url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121450",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 2923723,
+      "location": {
+        "name": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Remote, US"
+      },
+      "metadata": [
+        {
+          "id": 5955,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 16373425,
+          "name": "Career Track",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 61175930,
+          "name": "Careers Page Department",
+          "value": [
+            "Engineering"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 6121450,
+      "updated_at": "2026-10-02T10:22:36-04:00",
+      "requisition_id": "Evergreen - Machine Learning Engineer, IC14, Core Eng, USA",
+      "title": "Machine Learning Engineer, Core Engineering",
+      "company_name": "Pinterest",
+      "first_published": "2024-07-24T10:56:17-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Pinterest:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.&lt;/p&gt;\n&lt;p&gt;Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the&amp;nbsp;&lt;a href=&quot;https://www.pinterestcareers.com/our-life/pinflex/&quot;&gt;flexibility&lt;/a&gt; to do your best work. Creating a career you love? It’s Possible.&lt;/p&gt;\n&lt;p&gt;At Pinterest, AI isn&#39;t just a feature, it&#39;s a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.&lt;/p&gt;\n&lt;p&gt;Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process &lt;a href=&quot;https://www.pinterestcareers.com/our-philosophy-on-ai-in-hiring/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;With more than 500 million users around the world and 300 billion ideas saved, Pinterest Machine Learning engineers build personalized experiences to help Pinners create a life they love. With just over 3,000 global employees, our teams are small, mighty, and still growing. At Pinterest, you’ll experience hands-on access to an incredible vault of data and contribute large-scale recommendation systems in ways you won’t find anywhere else.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build cutting edge technology using the latest advances in deep learning and machine learning to personalize Pinterest&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Partner closely with teams across Pinterest to experiment and improve ML models for various product surfaces (Homefeed, Ads, Growth, Shopping, and Search), while gaining knowledge of how ML works in different areas&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Use data driven methods and leverage the unique properties of our data to improve candidates retrieval&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work in a high-impact environment with quick experimentation and product launches&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Keeping up with industry trends in recommendation systems&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What we’re looking for:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;2+ years of industry experience applying machine learning methods (e.g., user modeling, personalization, recommender systems, search, ranking, natural language processing, reinforcement learning, and graph representation learning)&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;End-to-end hands-on experience with building data processing pipelines, large scale machine learning systems, and big data technologies (e.g., Hadoop/Spark)&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;Bachelor’s degree in computer science, machine learning, statistics, a related field or equivalent experience&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Nice to have:&lt;/strong&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;M.S. or PhD in Machine Learning or related areas&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Publications at top ML conferences&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;Experience using Cursor, Copilot, Codex, or similar AI coding assistants for development, debugging, testing, and refactoring&lt;/li&gt;\n&lt;li&gt;Familiarity with LLM-powered productivity tools for documentation search, experiment analysis, SQL/data exploration, and engineering workflow acceleration&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Expertise in scalable realtime systems that process stream data&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Passion for applied ML and the Pinterest product&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;strong&gt;Relocation Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li class=&quot;p1&quot;&gt;This position is not eligible for relocation assistance. Visit our &lt;a href=&quot;https://www.pinterestcareers.com/pinflex/&quot;&gt;&lt;span class=&quot;s1&quot;&gt;PinFlex&lt;/span&gt;&lt;/a&gt; page to learn more about our working model.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-SA1&lt;/p&gt;\n&lt;p&gt;#LI-REMOTE&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Information regarding the culture at Pinterest and benefits available for this position can be found &lt;a href=&quot;https://www.pinterestcareers.com/pinterest-life/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;US based applicants only&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$138,905&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$285,982 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Commitment to Inclusion:&lt;/strong&gt;&lt;/p&gt;\n&lt;div&gt;Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete&amp;nbsp;&lt;a href=&quot;https://forms.gle/sS24D4WboEKUZMQK6&quot;&gt;this form&lt;/a&gt; for support.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;em&gt;By submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.&lt;/em&gt;&lt;/div&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 71468,
+          "name": "Core Engineering",
+          "child_ids": [],
+          "parent_id": 7789
+        }
+      ],
+      "offices": [
+        {
+          "id": 83,
+          "name": "San Francisco",
+          "location": "San Francisco, CA, US",
+          "child_ids": [],
+          "parent_id": 78376
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/6121450/ai_opt_out"
+    },
+    {
+      "absolute_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8234555",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3563177,
+      "location": {
+        "name": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US"
+      },
+      "metadata": [
+        {
+          "id": 5955,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 16373425,
+          "name": "Career Track",
+          "value": "Director",
+          "value_type": "single_select"
+        },
+        {
+          "id": 61175930,
+          "name": "Careers Page Department",
+          "value": [
+            "Engineering"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8234555,
+      "updated_at": "2026-10-02T10:26:01-04:00",
+      "requisition_id": "R0008429",
+      "title": "Director, Machine Learning Engineering, Ads Measurement",
+      "company_name": "Pinterest",
+      "first_published": "2026-09-30T13:50:52-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Pinterest:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.&lt;/p&gt;\n&lt;p&gt;Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the&amp;nbsp;&lt;a href=&quot;https://www.pinterestcareers.com/our-life/pinflex/&quot;&gt;flexibility&lt;/a&gt; to do your best work. Creating a career you love? It’s Possible.&lt;/p&gt;\n&lt;p&gt;At Pinterest, AI isn&#39;t just a feature, it&#39;s a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.&lt;/p&gt;\n&lt;p&gt;Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process &lt;a href=&quot;https://www.pinterestcareers.com/our-philosophy-on-ai-in-hiring/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;We’re looking for a strategic and experienced engineering leader to define the technical direction for Pinterest’s advertiser measurement and signal-quality ecosystem. In this role, you’ll lead managers and senior technical leaders across Interfaces, Ingestion, User Match, and Conversion Quality, driving multi-year investments in machine learning, data platforms, experimentation, privacy, and production reliability. You’ll partner closely with Product, Data Science, Ads Quality, Infrastructure, Privacy, Legal and Sales to translate complex advertiser and business challenges into scalable solutions—and build an inclusive, high-performing organization equipped to deliver measurable impact at scale.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Define technical strategy and investment priorities across Interfaces, Ingestion, User Match, and Conversion Quality.&lt;/li&gt;\n&lt;li&gt;Lead managers and senior technical leaders through a portfolio of multi-year ML and data-platform investments.&lt;/li&gt;\n&lt;li&gt;Partner with Product, Data Science, Ads Quality, Ads Infra, Core, Privacy, Legal, Sales, and Customer Operations.&lt;/li&gt;\n&lt;li&gt;Translate advertiser and business problems into scalable ML, data, and platform solutions.&lt;/li&gt;\n&lt;li&gt;Raise the bar for experimentation, causal measurement, model quality, reliability, privacy, and production operations.&lt;/li&gt;\n&lt;li&gt;Create mechanisms for cross-team design reviews, shared metrics, dependency management, and launch governance.&lt;/li&gt;\n&lt;li&gt;Communicate strategy, trade-offs, risks, and outcomes clearly to executives and cross-functional stakeholders.&lt;/li&gt;\n&lt;li&gt;Recruit, retain, and develop a high-performing, inclusive organization.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What we’re looking for:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong background ads measurement, identity, signals and large-scale data processing.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Experience leading an engineering organization through managers and senior technical leaders.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to define and execute technical strategy across multiple teams.&lt;/li&gt;\n&lt;li&gt;Experience operating systems with demanding scale, reliability, privacy, and data-quality requirements.&lt;/li&gt;\n&lt;li&gt;Track record of improving organizational execution, developing leaders, and creating distributed ownership.&lt;/li&gt;\n&lt;li&gt;Exceptional analytical thinking and ability to move from ambiguous business problems to measurable technical outcomes.&lt;/li&gt;\n&lt;li&gt;Strong executive communication and cross-functional influence.&lt;/li&gt;\n&lt;li&gt;Exceptional analytical thinking and ability to move from ambiguous business problems to measurable technical outcomes.&lt;/li&gt;\n&lt;li&gt;Strong executive communication and cross-functional influence.&lt;/li&gt;\n&lt;li&gt;Bachelor’s degree in a relevant field such as computer science, statistics, machine learning, or equivalent experience.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Nice-to-have experience:&lt;/strong&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience leading through major privacy, browser, platform, or signal-availability changes.&lt;/li&gt;\n&lt;li&gt;Ads optimization, or privacy-enhancing technologies.&lt;/li&gt;\n&lt;li&gt;Probabilistic matching, graph systems, anomaly detection, event-quality modeling, or confidence scoring.&lt;/li&gt;\n&lt;li&gt;ML platforms, real-time or streaming systems, large-scale experimentation, and model governance.&lt;/li&gt;\n&lt;li&gt;Experience applying AI or agentic systems to developer productivity, advertiser troubleshooting, or data-quality operations.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Relocation Statement&lt;/strong&gt;:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;This position&amp;nbsp;&lt;strong&gt;is not &lt;/strong&gt;eligible for relocation assistance. Visit our &lt;a href=&quot;https://www.pinterestcareers.com/pinflex/&quot;&gt;PinFlex&lt;/a&gt; page to learn more about our working model.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;In-Office Requirement Statement&lt;/strong&gt;:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-HYBRID&lt;/p&gt;\n&lt;p&gt;#LI-SM4&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Information regarding the culture at Pinterest and benefits available for this position can be found &lt;a href=&quot;https://www.pinterestcareers.com/pinterest-life/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;US based applicants only&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$314,580&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$550,515 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Commitment to Inclusion:&lt;/strong&gt;&lt;/p&gt;\n&lt;div&gt;Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete&amp;nbsp;&lt;a href=&quot;https://forms.gle/sS24D4WboEKUZMQK6&quot;&gt;this form&lt;/a&gt; for support.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;em&gt;By submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.&lt;/em&gt;&lt;/div&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 71473,
+          "name": "EPD Ads and Ads Product",
+          "child_ids": [],
+          "parent_id": 7789
+        }
+      ],
+      "offices": [
+        {
+          "id": 14142,
+          "name": "Seattle",
+          "location": "Seattle, WA, US",
+          "child_ids": [],
+          "parent_id": 78376
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/8234555/ai_opt_out"
+    },
+    {
+      "absolute_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8248368",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3568740,
+      "location": {
+        "name": "San Francisco, CA, US; Remote, US"
+      },
+      "metadata": [
+        {
+          "id": 5955,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 16373425,
+          "name": "Career Track",
+          "value": "Individual Contributor",
+          "value_type": "single_select"
+        },
+        {
+          "id": 61175930,
+          "name": "Careers Page Department",
+          "value": null,
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8248368,
+      "updated_at": "2026-10-09T12:17:16-04:00",
+      "requisition_id": "R0008480",
+      "title": "Compliance Lead",
+      "company_name": "Pinterest",
+      "first_published": "2026-10-09T12:17:16-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Pinterest:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.&lt;/p&gt;\n&lt;p&gt;Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the&amp;nbsp;&lt;a href=&quot;https://www.pinterestcareers.com/our-life/pinflex/&quot;&gt;flexibility&lt;/a&gt; to do your best work. Creating a career you love? It’s Possible.&lt;/p&gt;\n&lt;p&gt;At Pinterest, AI isn&#39;t just a feature, it&#39;s a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.&lt;/p&gt;\n&lt;p&gt;Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process &lt;a href=&quot;https://www.pinterestcareers.com/our-philosophy-on-ai-in-hiring/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;Role Purpose&lt;/h3&gt;\n&lt;p&gt;The&lt;strong&gt; Compliance Lead &lt;/strong&gt;will play a pivotal role in promoting Pinterest’s strong culture of compliance and ethics. The successful candidate will own the management, operation, and maturation of Pinterest’s Corporate Compliance and Ethics programs and related policies; support third party risk management, regulatory monitoring, and compliance-related internal investigations; and work as a highly effective partner across global teams. This role will drive compliance operations initiatives including risk assessments, self-service resources, monitoring, testing, and Board reporting, while leveraging approved AI and automation tools to streamline processes.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What you’ll do:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Be responsible for management, operation, and maturation of Pinterest’s Corporate Compliance and Ethics programs and related policies, including conflicts of interest, policy management and oversight, training and awareness, records and information management, standard setting, control management, and monitoring activities.&lt;/li&gt;\n&lt;li&gt;Assist with third party risk management, including sanctions and restricted-country screening, third party reviews, and gifts and hospitality.&lt;/li&gt;\n&lt;li&gt;Identify, assess, document, and escalate, as needed, potential compliance risks and issues, including working with appropriate stakeholders to implement mitigation measures.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Design and conduct risk assessments by gathering information, documenting findings, and tracking approved mitigation actions.&lt;/li&gt;\n&lt;li&gt;Support regulatory monitoring efforts — tracking new and evolving requirements across US, EU, LATAM and APAC and working with subject matter experts to translate them into actionable guidance for the business.&lt;/li&gt;\n&lt;li&gt;Maintain and improve self-service compliance resources, including policies, procedures, process flows, trackers, evidence repositories, and the internal compliance knowledge hub.&lt;/li&gt;\n&lt;li&gt;Assist with and, as appropriate, conduct compliance-related internal investigations.&lt;/li&gt;\n&lt;li&gt;Support periodic monitoring, control testing, compliance audits, and preparation of concise reports and management updates, including Board reporting across all Compliance programs.&lt;/li&gt;\n&lt;li&gt;Identify and drive opportunities to use approved AI-enabled tools and workflow automation to streamline compliance processes, while maintaining appropriate human review, data protection, and auditability.&lt;/li&gt;\n&lt;li&gt;Collaborate with cross-functional partners in Human Resources, Finance, Product, and Engineering on compliance-related matters&lt;/li&gt;\n&lt;li&gt;Anticipate needs, solve problems proactively, and constantly look for ways to maximize efficiency and impact&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;What we’re looking for:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Minimum 5 years of experience building and maintaining compliance and ethics, sanctions, AML/KYC, third-party risk, risk management program(s).&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Experience using GRC, workflow, or case-management systems (e.g., learning management systems, helpline platforms, or document management tools).&lt;/li&gt;\n&lt;li&gt;Familiarity with one or more of the following areas: sanctions screening and OFAC concepts, the Foreign Corrupt Practices Act (FCPA), anti-bribery and corruption, financial crime risks and controls, consumer protection regulation.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to manage multiple workstreams independently and meet deadlines in a fast-moving environment.&lt;/li&gt;\n&lt;li&gt;Strong written and verbal communication skills — you can explain a complex requirement clearly to someone who is not a lawyer or compliance professional and can tailor your communications for the audience.&lt;/li&gt;\n&lt;li&gt;Sound judgment and the ability to recognize when a situation calls for escalation, even when the right answer is not obvious.&lt;/li&gt;\n&lt;li&gt;Experience in using AI and automation tools to improve compliance workflows, documentation, or reporting.&lt;/li&gt;\n&lt;li&gt;Experience building productive working relationships across teams and functions.&lt;/li&gt;\n&lt;li&gt;Proficiency with Google Workspace tools, including spreadsheets and presentation software.&lt;/li&gt;\n&lt;li&gt;A positive, proactive, &quot;can-do&quot; mentality and a genuine eagerness to learn and contribute to a wide range of projects.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred Qualifications&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;J.D., and time spent at supporting compliance in-house or at a law firm.&lt;/li&gt;\n&lt;li&gt;Experience working in a technology company or similarly fast-paced, multi-jurisdictional environment.&lt;/li&gt;\n&lt;li&gt;Compliance or ethics certification such as CCEP, CAMS, or ICA.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Relocation Statement:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;This position is not eligible for relocation assistance. Visit our&lt;a href=&quot;https://www.pinterestcareers.com/pinflex/&quot;&gt; PinFlex&lt;/a&gt; page to learn more about our working model.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;In-office requirement statement:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role.&lt;/li&gt;\n&lt;li&gt;This role will need to be in the office for in-person collaboration 1-2 times per year and therefore can be situated anywhere in the country.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;#LI-REMOTE&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Information regarding the culture at Pinterest and benefits available for this position can be found &lt;a href=&quot;https://www.pinterestcareers.com/pinterest-life/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;US based applicants only&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$120,321&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$247,718 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Commitment to Inclusion:&lt;/strong&gt;&lt;/p&gt;\n&lt;div&gt;Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete&amp;nbsp;&lt;a href=&quot;https://forms.gle/sS24D4WboEKUZMQK6&quot;&gt;this form&lt;/a&gt; for support.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;em&gt;By submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.&lt;/em&gt;&lt;/div&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 522,
+          "name": "Legal",
+          "child_ids": [],
+          "parent_id": 84638
+        }
+      ],
+      "offices": [
+        {
+          "id": 83,
+          "name": "San Francisco",
+          "location": "San Francisco, CA, US",
+          "child_ids": [],
+          "parent_id": 78376
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": null
+    },
+    {
+      "absolute_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8135500",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3521784,
+      "location": {
+        "name": "Dublin, IE"
+      },
+      "metadata": [
+        {
+          "id": 5955,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 16373425,
+          "name": "Career Track",
+          "value": "Individual Contributor",
+          "value_type": "single_select"
+        },
+        {
+          "id": 61175930,
+          "name": "Careers Page Department",
+          "value": [
+            "Sales"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8135500,
+      "updated_at": "2026-10-06T08:14:26-04:00",
+      "requisition_id": "R0008113",
+      "title": "Client Account Manager, Enterprise Sales - Italian Market",
+      "company_name": "Pinterest",
+      "first_published": "2026-08-19T08:49:14-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Pinterest:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.&lt;/p&gt;\n&lt;p&gt;Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the&amp;nbsp;&lt;a href=&quot;https://www.pinterestcareers.com/our-life/pinflex/&quot;&gt;flexibility&lt;/a&gt; to do your best work. Creating a career you love? It’s Possible.&lt;/p&gt;\n&lt;p&gt;At Pinterest, AI isn&#39;t just a feature, it&#39;s a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.&lt;/p&gt;\n&lt;p&gt;Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process &lt;a href=&quot;https://www.pinterestcareers.com/our-philosophy-on-ai-in-hiring/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About Pinterest:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As Client Account Manager in our IT Enterprise Sales Team, you will be in charge of driving a book of business with some of our key partners on our Retail Team. You’ll work directly with some of our key advertisers as a trusted consultant to their business. Your strategic advice, sales skills &amp;amp; coaching are core to bringing to life the value we deliver as a platform. If this sounds like fun, we’d love to hear from you!&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;strong&gt;What you’ll do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and nurture relationships with our Partners, proactively reaching out to partners regarding campaign performance, optimisations, updates, and opportunities.&lt;/li&gt;\n&lt;li&gt;Ensure that our partners objectives and requirements are met by liaising between them and our internal teams (Measurement &amp;amp; Insights, Product Marketing, Creative Strategy, etc).&lt;/li&gt;\n&lt;li&gt;Gain a deep understanding of our partners’ business goals and turn data into compelling stories and actionable insights to help them succeed.&lt;/li&gt;\n&lt;li&gt;Specifically own the “how” conversation with advertisers to advise on media strategies across targeting, bidding models, creative, measurement, etc.&lt;/li&gt;\n&lt;li&gt;Become an expert at Pinterest campaign best practices, enabling yourself to be the resource for performance related opportunities. Ensure that campaign setup is optimal. Interpret and communicate campaign results so that the customer sees impact.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Evaluate if a digital media campaign is successful and how to troubleshoot. Understand how to drive results, optimize campaigns and deliver performance updates to partners. Ensure the performance metrics that were agreed upon are being met, and take action to course correct.&lt;/li&gt;\n&lt;li&gt;Actively engaging in client meetings to understand their key objectives and challenges. Presenting and explaining complex solutions in a clear and concise manner to help partners achieve their objectives. Handle resistance, complaints, or objections from partners professionally and patiently. Cross sell and upsell opportunities that contribute to the team’s ability to exceed revenue targets.&lt;/li&gt;\n&lt;li&gt;Understand complex processes and products, distilling them down into a digestible format for our partners’, Provide partners with guidance and expertise on product, service best practices and features. Be highly knowledgeable about all relevant Pinterest ad product features and capable of clearly explaining their benefits to a customer. Maintain up-to-date education and fluency on evolving product roadmap and iterations. Efficiently interfaces with appropriate cross-functional teams to answer product-related questions or challenges when needed.&lt;/li&gt;\n&lt;li&gt;Pitch new performance products and campaign best practices at scale.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What we’re looking for:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Digital advertising sales experience, managing high value relationships, driving strategic learning agendas and owning client communication.&lt;/li&gt;\n&lt;li&gt;Track record of compelling data-backed storytelling and recommendations.&lt;/li&gt;\n&lt;li&gt;Expert in managing forecasts and achieving goals.&lt;/li&gt;\n&lt;li&gt;Strong communication skills in person, on the phone, and through email.&lt;/li&gt;\n&lt;li&gt;A team player who’s able to work in a fast-paced environment with technical and non-technical teams.&lt;/li&gt;\n&lt;li&gt;Expertise in digital advertising and media sales including campaign optimisation, analytical problem solving, and product/platform knowledge.&lt;/li&gt;\n&lt;li&gt;Technical foundation with relevant experience in Search/Shopping/Display/Social advertising technologies.&lt;/li&gt;\n&lt;li&gt;Demonstrates curiosity and a willingness to explore AI tools to improve day-to-day productivity, including campaign setup, performance reporting, client communications, and research.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Leverages AI to work more efficiently, whether it&#39;s streamlining optimizations, preparing for client meetings, or surfacing insights from campaign data, while maintaining attention to detail and a high bar for accuracy.&lt;/li&gt;\n&lt;li&gt;Bachelor’s/Master’s degree in a relevant field or equivalent experience.&lt;/li&gt;\n&lt;li&gt;Fluent Italian and English are essential for the role.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Relocation Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;This position is not eligible for relocation assistance. Visit our &amp;nbsp;&lt;a href=&quot;https://www.pinterestcareers.com/pinflex/&quot;&gt;PinFlex&lt;/a&gt; page to learn more about our working model.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;In-Office Requirement Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;We let the type of work you do guide the collaboration style. That means we&#39;re not always working in an office, but we continue to gather for key moments of collaboration and connection.&lt;/li&gt;\n&lt;li&gt;This role will need to be in the office for in-person collaboration 1-2 times per week and therefore needs to be in a commutable distance from one of the following offices; Dublin.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-HYBRID&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity and incentive compensation. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Information regarding the culture at Pinterest and benefits available for this position can be found &lt;a href=&quot;https://www.pinterestcareers.com/pinterest-life/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Location based applicants&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;€58.931,60&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;€103.130,30 EUR&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Commitment to Inclusion:&lt;/strong&gt;&lt;/p&gt;\n&lt;div&gt;Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete&amp;nbsp;&lt;a href=&quot;https://forms.gle/sS24D4WboEKUZMQK6&quot;&gt;this form&lt;/a&gt; for support.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;em&gt;By submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.&lt;/em&gt;&lt;/div&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 89209,
+          "name": "Europe Enterprise Sales",
+          "child_ids": [],
+          "parent_id": 73664
+        }
+      ],
+      "offices": [
+        {
+          "id": 9438,
+          "name": "Dublin",
+          "location": "Dublin, IE",
+          "child_ids": [],
+          "parent_id": 78371
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": null
+    },
+    {
+      "absolute_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8242487",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3566430,
+      "location": {
+        "name": "São Paulo, BR"
+      },
+      "metadata": [
+        {
+          "id": 5955,
+          "name": "Employment Type",
+          "value": "Temporary (Fixed Term)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 16373425,
+          "name": "Career Track",
+          "value": "Individual Contributor",
+          "value_type": "single_select"
+        },
+        {
+          "id": 61175930,
+          "name": "Careers Page Department",
+          "value": [
+            "Sales"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8242487,
+      "updated_at": "2026-10-07T12:30:26-04:00",
+      "requisition_id": "R0008410",
+      "title": "Client Account Manager I (Fixed Term Contract)",
+      "company_name": "Pinterest",
+      "first_published": "2026-10-07T12:30:26-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Pinterest:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.&lt;/p&gt;\n&lt;p&gt;Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the&amp;nbsp;&lt;a href=&quot;https://www.pinterestcareers.com/our-life/pinflex/&quot;&gt;flexibility&lt;/a&gt; to do your best work. Creating a career you love? It’s Possible.&lt;/p&gt;\n&lt;p&gt;At Pinterest, AI isn&#39;t just a feature, it&#39;s a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.&lt;/p&gt;\n&lt;p&gt;Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process &lt;a href=&quot;https://www.pinterestcareers.com/our-philosophy-on-ai-in-hiring/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Great brands help make Pinner’s inspirations a reality, and we’re looking for a (Fixed Term Contract) Client Account Manager to help lead the way. You’ll help spread awareness and comprehension of Pinterest Business tools in new markets. You’ll develop strong brand relationships and work closely to help them get the most out of Pinterest and meet their business goals. You’ll collaborate on major initiatives, including internally with your teammates and other areas, while being the primary contact for our partners at the highest level.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and nurture relationships&lt;strong&gt; &lt;/strong&gt;with our Partners, proactively reaching out to partners regarding campaign performance, optimizations, updates, and opportunities.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Ensure that our partners objectives and requirements are met by liaising between them and our internal teams ( Measurement &amp;amp; Insights, Product Marketing, Creative Strategy, etc)&lt;/li&gt;\n&lt;li&gt;Gain a deep understanding of our partners’ business goals and turn data into compelling stories and actionable insights to help them succeed&lt;/li&gt;\n&lt;li&gt;Specifically own the “how” conversation with advertisers to advise on media strategies across targeting, bidding models, creative, measurement, etc.&lt;/li&gt;\n&lt;li&gt;Become an expert at Pinterest campaign best practices, enabling yourself to be the resource for performance related opportunities. Ensure that campaign setup is optimal.&amp;nbsp; Interpret and communicate campaign results so that the customer sees impact. Evaluate if a digital media campaign is successful and how to troubleshoot. Understand how to drive results, optimize campaigns and deliver performance updates to partners. Ensure the performance metrics that were agreed upon are being met, and take action to course correct.&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Actively engaging in client meetings to understand their key objectives and challenges. Presenting and explaining complex solutions in a clear and concise manner to help partners achieve their objectives. Handle resistance, complaints, or objections from partners professionally and patiently. Cross sell and upsell opportunities&lt;strong&gt; &lt;/strong&gt;that contribute to the team’s ability to exceed revenue targets.&lt;/li&gt;\n&lt;li&gt;Understand complex processes and products, distilling them down into a digestible format for our partners’, Provide partners with guidance and expertise on product, service best practices and features. Be highly knowledgeable about all relevant Pinterest ad product features and capable of clearly explaining their benefits to a customer. Maintain up-to-date education and fluency on evolving product roadmap and iterations. Efficiently interfaces with appropriate cross-functional teams to answer product-related questions or challenges when needed.&lt;/li&gt;\n&lt;li&gt;Pitch new performance products and campaign best practices at scale&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What we’re looking for:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Digital advertising sales experience, managing high value relationships, driving strategic learning agendas and owning client communication&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Track record of compelling data-backed storytelling and recommendations&lt;/li&gt;\n&lt;li&gt;Expert in managing forecasts and achieving goals&lt;/li&gt;\n&lt;li&gt;Strong communication skills in person, on the phone, and through email&lt;/li&gt;\n&lt;li&gt;A team player who’s able to work in a fast-paced environment with technical and non-technical teams&lt;/li&gt;\n&lt;li&gt;Expertise in digital advertising and media sales including campaign optimization, analytical problem solving, and product/platform knowledge&lt;/li&gt;\n&lt;li&gt;Technical foundation with relevant experience in Search/Shopping/Display/Social advertising technologies&lt;/li&gt;\n&lt;li&gt;Bachelor’s degree in Business, Marketing, Communications, or equivalent experience.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Relocation Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&amp;nbsp;This position is not eligible for relocation assistance. Visit our &lt;a href=&quot;https://www.pinterestcareers.com/pinflex/&quot;&gt;PinFlex&lt;/a&gt; page to learn more about our working model.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&lt;br&gt;In-Office Requirement Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role.&lt;/li&gt;\n&lt;li&gt;This role will need to be in the office for in-person collaboration at least 2-5 times per week. Therefore needs to be in a commutable distance from Sao Paulo office.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-ONSITE&amp;nbsp;&lt;br&gt;&lt;span data-sheets-root=&quot;1&quot; data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;#LI-DG2&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:8705,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;12&amp;quot;:0,&amp;quot;16&amp;quot;:12}&quot;&gt;#LI-DG2&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Commitment to Inclusion:&lt;/strong&gt;&lt;/p&gt;\n&lt;div&gt;Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete&amp;nbsp;&lt;a href=&quot;https://forms.gle/sS24D4WboEKUZMQK6&quot;&gt;this form&lt;/a&gt; for support.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;em&gt;By submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.&lt;/em&gt;&lt;/div&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 89211,
+          "name": "LATAM Enterprise Sales",
+          "child_ids": [],
+          "parent_id": 73664
+        }
+      ],
+      "offices": [
+        {
+          "id": 607,
+          "name": "Sao Paulo",
+          "location": "São Paulo, BR",
+          "child_ids": [],
+          "parent_id": 75634
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": null
+    }
+  ],
+  "meta": {
+    "total": 5
+  }
+}
