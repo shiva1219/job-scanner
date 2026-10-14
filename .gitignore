@@ -3,3 +3,4 @@ data/*.db
 data/*.db-*
 private/
 .env
+.DS_Store
