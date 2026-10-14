@@ -1,0 +1,37 @@
+{
+  "jobPostingInfo": {
+    "id": "b83b32f3127c1012d9582dcff5830000",
+    "title": "Frontend Engineer Angular",
+    "jobDescription": "<p>The Applications Development Senior Programmer Analyst is an intermediate level position responsible for participation in the establishment and implementation of new or revised application systems and programs in coordination with the Technology team. The overall objective of this role is to contribute to applications systems analysis and programming activities.<br /><br /><b><u>Responsibilities:</u></b></p><ul><li>Conduct tasks related to feasibility studies, time and cost estimates, IT planning, risk technology, applications development, model development, and establish and implement new or revised applications systems and programs to meet specific business needs or user areas</li><li>Monitor and control all phases of development process and analysis, design, construction, testing, and implementation as well as provide user and operational support on applications to business users</li><li>Utilize in-depth specialty knowledge of applications development to analyze complex problems/issues, provide evaluation of business process, system process, and industry standards, and make evaluative judgement</li><li>Recommend and develop security measures in post implementation analysis of business usage to ensure successful system design and functionality</li><li>Consult with users/clients and other technology groups on issues, recommend advanced programming solutions, and install and assist customer exposure systems</li><li>Ensure essential procedures are followed and help define o",
+    "location": "Jacksonville Florida United States",
+    "postedOn": "Posted 30+ Days Ago",
+    "startDate": "2026-08-17",
+    "timeType": "Full time",
+    "jobReqId": "26967876",
+    "jobPostingId": "Frontend-Engineer-Angular_26967876",
+    "jobPostingSiteId": "2",
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "canApply": true,
+    "posted": true,
+    "includeResumeParsing": true,
+    "jobRequisitionLocation": {
+      "descriptor": "14000 CITI CARDS WAY BUILDING A JACKSONVILLE",
+      "country": {
+        "descriptor": "United States of America",
+        "id": "bc33aa3152ec42d4995f4791a106ed09",
+        "alpha2Code": "US"
+      }
+    },
+    "externalUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Frontend-Engineer-Angular_26967876",
+    "questionnaireId": "ca21de088a1c1034f93a320d07f50000",
+    "secondaryQuestionnaireId": "b5af492a9d72012eebb027fd240e8d1c"
+  },
+  "hiringOrganization": {
+    "name": "00002 Citibank, N.A.",
+    "url": ""
+  },
+  "userAuthenticated": false
+}

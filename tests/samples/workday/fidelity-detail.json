@@ -1,0 +1,36 @@
+{
+  "jobPostingInfo": {
+    "id": "aa145e44b36d1001f9bd4337a6100000",
+    "title": "Principal Full Stack Engineer",
+    "jobDescription": "<p><b>Fidelity will not provide immigration sponsorship for this position.</b></p><h2></h2><h2>Job Description:</h2><p style=\"text-align:inherit\"></p><p><b>The Role</b> </p><p>Fidelity Stock Transfer (FST) in Fidelity Labs is looking for a Principal Full Stack Engineer to join us. As a key member of a growing engineering team, this role will be hands-on building the technology and architecture of world class end-to-end systems. Learn more about FST at <a target=\"_blank\" href=\"https://fidelitystocktransfer.com/\"><u>fidelitystocktransfer.com</u></a> </p><br /><p><b>The Team</b> </p><p>We are <b>Fidelity Labs</b>, Fidelity Investments’ in-house fintech incubator with a mission to build new businesses to drive growth for Fidelity. We seek to shape the future of our industry by building new products and services to improve the lives of the diverse set of customers, businesses and financial institutions we serve. </p><p>Fidelity Labs is a dynamic workplace that combines the best parts of startup life—building from scratch, adapting quickly, and moon-shot ambition—with the scale and stability of an industry leader. We provide a safe space for startup teams to explore new business ideas, quickly test them with customers, and scale the most promising concepts within an existing business unit, or as a new venture. </p><p>This opportunity is brought to you by Fidelity Labs. Learn more at <a target=\"_blank\" href=\"https://labs.fidelity.com/\"><u>labs.fidelity.com</u></a>. </p><br /><p><b>T",
+    "location": "300 New Millennium Way, Durham NC",
+    "postedOn": "Posted Yesterday",
+    "startDate": "2026-10-12",
+    "timeType": "Full time",
+    "jobReqId": "2125564",
+    "jobPostingId": "Principal-Full-Stack-Engineer_2125564-2",
+    "jobPostingSiteId": "FidelityCareers",
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "canApply": true,
+    "posted": true,
+    "includeResumeParsing": true,
+    "jobRequisitionLocation": {
+      "descriptor": "300 New Millennium Way, Durham NC",
+      "country": {
+        "descriptor": "United States of America",
+        "id": "bc33aa3152ec42d4995f4791a106ed09",
+        "alpha2Code": "US"
+      }
+    },
+    "externalUrl": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/300-New-Millennium-Way-Durham-NC/Principal-Full-Stack-Engineer_2125564-2",
+    "questionnaireId": "42e0e3f47de310012f973ab787cc0000"
+  },
+  "hiringOrganization": {
+    "name": "Fidelity Technology Group, LLC",
+    "url": ""
+  },
+  "userAuthenticated": false
+}

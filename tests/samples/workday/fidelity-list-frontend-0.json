@@ -1,0 +1,33 @@
+{
+  "total": 8,
+  "jobPostings": [
+    {
+      "title": "Principal Full Stack Engineer",
+      "externalPath": "/job/300-New-Millennium-Way-Durham-NC/Principal-Full-Stack-Engineer_2125564-2",
+      "locationsText": "300 New Millennium Way, Durham NC",
+      "postedOn": "Posted Yesterday",
+      "bulletFields": [
+        "2125564"
+      ]
+    },
+    {
+      "title": "Principal Performance Engineer",
+      "externalPath": "/job/Durham-NC/Principal-Performance-Engineer_2129065-2",
+      "locationsText": "Durham, NC",
+      "postedOn": "Posted Yesterday",
+      "bulletFields": [
+        "2129065"
+      ]
+    },
+    {
+      "title": "Director, Frontend Engineering",
+      "externalPath": "/job/Westlake-TX/Director--Engineering---Digital-Enablement_2133780",
+      "locationsText": "Westlake, TX",
+      "postedOn": "Posted Yesterday",
+      "bulletFields": [
+        "2133780"
+      ]
+    }
+  ],
+  "userAuthenticated": false
+}
