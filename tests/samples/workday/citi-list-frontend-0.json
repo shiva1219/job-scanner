@@ -1,0 +1,33 @@
+{
+  "total": 112,
+  "jobPostings": [
+    {
+      "title": "Frontend Engineer Angular",
+      "externalPath": "/job/Jacksonville-Florida-United-States/Frontend-Engineer-Angular_26967876",
+      "locationsText": "Jacksonville Florida United States",
+      "postedOn": "Posted 30+ Days Ago",
+      "bulletFields": [
+        "26967876"
+      ]
+    },
+    {
+      "title": "UI Frontend Developer",
+      "externalPath": "/job/Budapest--Hungary/UI-Frontend-Developer_26995374",
+      "locationsText": "Budapest  Hungary",
+      "postedOn": "Posted 19 Days Ago",
+      "bulletFields": [
+        "26995374"
+      ]
+    },
+    {
+      "title": "Principal Engineer - Senior Vice President",
+      "externalPath": "/job/Pune-Maharashtra-India/Principal-Engineer---Senior-Vice-President_26988504",
+      "locationsText": "Pune Maharashtra India",
+      "postedOn": "Posted 30+ Days Ago",
+      "bulletFields": [
+        "26988504"
+      ]
+    }
+  ],
+  "userAuthenticated": false
+}
