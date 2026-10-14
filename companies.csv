@@ -1,0 +1,101 @@
+company,priority,sector,hubs,path_fit,career_url,likely_ats,ats_confidence
+AT&T,A,Telecom,"TX (Dallas, Plano)","Full-stack, Frontend",https://www.att.jobs,Custom,Verify
+Amazon / AWS,A,Big tech,"TX (Austin, Dallas), CA","Frontend, Full-stack, Frontend+AI",https://www.amazon.jobs,Custom,High
+Apple,A,Big tech,"TX (Austin), CA","Frontend, Full-stack",https://jobs.apple.com,Custom,High
+Bank of America,A,Banking,"TX (Plano, Dallas)",Full-stack,https://careers.bankofamerica.com,Custom,Verify
+Capital One,A,Banking / Fintech,"TX (Plano), CA, Remote","Full-stack, Frontend+AI",https://www.capitalonecareers.com,Workday,High
+Charles Schwab,A,Financial services,"TX (Westlake, Austin)","Full-stack, Frontend",https://www.schwabjobs.com,Workday,Verify
+Citi,A,Banking,TX (Irving),"Full-stack, Frontend",https://jobs.citi.com,Workday,High
+Dell Technologies,A,Enterprise tech,"TX (Round Rock, Austin)","Full-stack, Frontend",https://jobs.dell.com,Workday,High
+Fidelity Investments,A,Financial services,"TX (Westlake), Remote","Full-stack (Angular), Frontend",https://jobs.fidelity.com,Workday,High
+Garmin,A,Consumer tech / hardware,KS (Olathe),"Frontend, Full-stack",https://careers.garmin.com,Workday,Verify
+General Motors (IT Innovation Center),A,Automotive / tech,"TX (Austin), Remote","Full-stack, Frontend",https://search-careers.gm.com,Workday,Verify
+Goldman Sachs,A,Banking,TX (Dallas),"Full-stack, Frontend",https://www.goldmansachs.com/careers,Custom,High
+Google,A,Big tech,"TX (Austin), CA","Frontend, Frontend+AI",https://www.google.com/about/careers/applications,Custom,High
+Intuit,A,Fintech software,"CA (Mountain View, San Diego), TX (Plano)","Frontend, Frontend+AI",https://jobs.intuit.com,Workday,Verify
+JPMorgan Chase,A,Banking,"TX (Plano, Dallas), CA","Full-stack, Frontend",https://careers.jpmorgan.com,Oracle HCM,High
+McKesson,A,Healthcare,TX (Irving),Full-stack,https://careers.mckesson.com,Workday,High
+Meta,A,Big tech,"TX (Austin), CA","Frontend (React), Frontend+AI",https://www.metacareers.com,Custom,High
+Oracle (incl. Oracle Health),A,Enterprise software,"TX (Austin), KS/MO (Kansas City), CA","Full-stack, Frontend",https://www.oracle.com/careers,Oracle HCM,High
+Salesforce,A,Enterprise SaaS,"CA, TX (Dallas), Remote","Frontend, Frontend+AI",https://careers.salesforce.com,Workday,High
+State Farm,A,Insurance,"TX (Richardson), Remote","Full-stack, Frontend",https://jobs.statefarm.com,Custom,Verify
+The Home Depot (Austin tech center),A,Retail tech,"TX (Austin), Remote","Frontend, Full-stack",https://careers.homedepot.com,Workday,Verify
+Toyota North America,A,Automotive,TX (Plano),"Full-stack, Frontend+AI",https://careers.toyota.com,Workday,Verify
+USAA,A,Insurance / Banking,"TX (San Antonio, Plano)","Full-stack, Frontend",https://www.usaajobs.com,Workday,Verify
+UnitedHealth Group / Optum,A,Healthcare,"TX (Dallas), Remote","Full-stack, Frontend",https://careers.unitedhealthgroup.com,Custom,Verify
+Verizon,A,Telecom,"TX (Irving), Remote","Full-stack, Frontend",https://mycareer.verizon.com,Workday,Verify
+Visa,A,Payments,"TX (Austin), CA (Foster City)","Full-stack, Frontend",https://corporate.visa.com/en/jobs,SmartRecruiters,High
+Walmart Global Tech,A,Retail tech,"CA (Sunnyvale), TX (Dallas), AR","Frontend, Full-stack",https://careers.walmart.com,Workday,High
+Wells Fargo,A,Banking,"TX (Irving, Dallas)",Full-stack,https://www.wellsfargojobs.com,Workday,Verify
+Adobe,A,Software,"CA (San Jose), Remote","Frontend, Frontend+AI",https://careers.adobe.com,Workday,High
+Microsoft,A,Big tech,"CA, Remote (limited)","Frontend, Frontend+AI",https://careers.microsoft.com,Custom,High
+Pinterest,A,Consumer tech,"Remote-US, CA",Frontend (React),https://www.pinterestcareers.com,Greenhouse,High
+ServiceNow,A,Enterprise SaaS,"CA (Santa Clara), Remote","Frontend, Frontend+AI",https://careers.servicenow.com,SmartRecruiters,Verify
+7-Eleven,B,Retail / digital,TX (Irving),"Frontend, Full-stack",https://careers.7-eleven.com,Workday,Verify
+American Airlines,B,Airline,TX (Fort Worth),"Full-stack, Frontend",https://jobs.aa.com,Custom,Verify
+Atlassian,B,Developer SaaS,"TX (Austin), CA, Remote","Frontend, Frontend+AI",https://www.atlassian.com/company/careers,Custom,Verify
+CVS Health,B,Healthcare,"TX (Irving), Remote","Full-stack, Frontend",https://jobs.cvshealth.com,Workday,Verify
+Cisco,B,Networking,"TX (Austin, Richardson), CA","Full-stack, Frontend",https://jobs.cisco.com,Custom,Verify
+"Deloitte (full-time, not contract)",B,Consulting,"MO (Kansas City), TX (Dallas, Austin)","Full-stack, Frontend+AI",https://apply.deloitte.com,Custom,Verify
+Expedia Group,B,Travel tech,"TX (Austin), CA, Remote","Frontend, Full-stack",https://careers.expediagroup.com,Custom,Verify
+Fiserv,B,Fintech,"TX (Frisco), Remote",Full-stack,https://careers.fiserv.com,Workday,Verify
+H&R Block,B,Fintech / tax,"MO (Kansas City), Remote","Frontend, Full-stack",https://careers.hrblock.com,Workday,Verify
+Hewlett Packard Enterprise,B,Enterprise tech,"TX (Spring, Houston, Austin)","Full-stack, Frontend+AI",https://careers.hpe.com,Workday,Verify
+IBM,B,Enterprise tech,"TX (Austin, Dallas), Remote","Full-stack, Frontend+AI",https://www.ibm.com/careers,Custom,Verify
+Indeed,B,Job tech,"TX (Austin), Remote","Frontend, Full-stack",https://www.indeed.jobs,Custom,Verify
+NVIDIA,B,Semiconductors / AI,"CA (Santa Clara), TX (Austin)","Frontend+AI, Full-stack",https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite,Workday,High
+Palo Alto Networks,B,Security,"CA (Santa Clara), TX (Plano)","Frontend, Full-stack",https://jobs.paloaltonetworks.com,Custom,Verify
+PayPal,B,Payments,"CA (San Jose), TX (Austin)","Full-stack, Frontend",https://careers.pypl.com,Eightfold,Verify
+Sabre,B,Travel tech,TX (Southlake),Full-stack,https://www.sabre.com/careers,Workday,Verify
+Southwest Airlines,B,Airline,TX (Dallas),"Full-stack, Frontend",https://careers.southwestair.com,Workday,Verify
+Tesla,B,Automotive / energy,"TX (Austin), CA","Full-stack, Frontend",https://www.tesla.com/careers,Custom,Verify
+Texas Instruments,B,Semiconductors,TX (Dallas),Full-stack,https://careers.ti.com,Workday,Verify
+Tyler Technologies,B,Gov tech SaaS,"TX (Plano), Remote","Full-stack, Frontend",https://www.tylertech.com/careers,Workday,Verify
+Uber,B,Consumer tech,"CA (SF), TX (Dallas)","Frontend, Full-stack",https://www.uber.com/us/en/careers,Custom,Verify
+Airbnb,B,Consumer tech,"CA (SF), Remote",Frontend,https://careers.airbnb.com,Greenhouse,High
+American Express,B,Payments,"Remote-US, AZ, NY","Full-stack, Frontend",https://www.americanexpress.com/en-us/careers,Eightfold,Verify
+Anthropic,B,AI,CA (SF),Frontend+AI,https://www.anthropic.com/careers,Greenhouse,Verify
+Autodesk,B,Design software,"CA (SF), Remote","Frontend, Frontend+AI",https://www.autodesk.com/careers,Workday,High
+"Block (Square, Cash App)",B,Fintech,"CA (Oakland), Remote","Frontend, Full-stack",https://block.xyz/careers,Greenhouse,Verify
+Charter Communications (Spectrum),B,Telecom,"MO (St. Louis), Remote","Full-stack, Frontend",https://jobs.spectrum.com,Custom,Verify
+Databricks,B,Data / AI,"CA (SF, Mountain View)","Frontend+AI, Frontend",https://www.databricks.com/company/careers,Greenhouse,High
+DoorDash,B,Consumer tech,"CA (SF), Remote","Frontend, Full-stack",https://careersatdoordash.com,Greenhouse,High
+Figma,B,Design SaaS,"CA (SF), Remote","Frontend, Frontend+AI",https://www.figma.com/careers,Greenhouse,High
+GitHub,B,Developer tools,Remote-US,"Frontend, Frontend+AI",https://www.github.careers,Custom,Verify
+LinkedIn,B,Consumer tech,CA (Sunnyvale),Frontend,https://careers.linkedin.com,Custom,Verify
+Mastercard,B,Payments,"MO (O'Fallon), Remote","Full-stack, Frontend",https://careers.mastercard.com,Workday,High
+OpenAI,B,AI,CA (SF),Frontend+AI,https://openai.com/careers,Ashby,High
+Snowflake,B,Data cloud,"CA (San Mateo), Remote","Frontend, Frontend+AI",https://careers.snowflake.com,Ashby,Verify
+Stripe,B,Payments,"CA (SF), Remote","Frontend, Full-stack",https://stripe.com/jobs,Greenhouse,High
+Workday,B,Enterprise SaaS,"CA (Pleasanton), Remote","Frontend, Full-stack",https://www.workday.com/en-us/company/careers.html,Workday,High
+AMD,C,Semiconductors,"TX (Austin), CA (Santa Clara)",Full-stack,https://careers.amd.com,Workday,Verify
+Accenture,C,Consulting,"TX, MO (Kansas City), Remote","Full-stack, Frontend+AI",https://www.accenture.com/us-en/careers,Workday,Verify
+Black & Veatch,C,Engineering,KS (Overland Park),Full-stack,https://www.bv.com/careers,Workday,Verify
+Broadcom (incl. VMware),C,Enterprise tech,"CA (Palo Alto), TX (Austin)",Full-stack,https://www.broadcom.com/company/careers,Workday,Verify
+Burns & McDonnell,C,Engineering,MO (Kansas City),Full-stack,https://www.burnsmcd.com/careers,Custom,Verify
+Commerce Bank,C,Banking,MO (Kansas City),Full-stack,https://www.commercebank.com/about/careers,Workday,Verify
+EY,C,Consulting,"TX (Dallas), MO (Kansas City)","Full-stack, Frontend+AI",https://careers.ey.com,Custom,Verify
+Electronic Arts,C,Gaming,"CA (Redwood City), TX (Austin)","Frontend, Full-stack",https://www.ea.com/careers,Workday,Verify
+Intel,C,Semiconductors,"CA (Santa Clara), TX (Austin)",Full-stack,https://jobs.intel.com,Workday,High
+Match Group,C,Consumer tech,TX (Dallas),Frontend,https://www.mtch.com/careers,Greenhouse,Verify
+Netsmart,C,Health IT,KS (Overland Park),"Full-stack, Frontend",https://www.ntst.com/careers,Custom,Verify
+Q2 Holdings,C,Fintech SaaS,TX (Austin),"Full-stack, Frontend",https://www.q2.com/careers,Workday,Verify
+Qualcomm,C,Semiconductors,"CA (San Diego), TX (Austin)",Full-stack,https://careers.qualcomm.com,Workday,Verify
+UMB Financial,C,Banking,MO (Kansas City),Full-stack,https://www.umb.com/careers,Workday,Verify
+eBay,C,E-commerce,"CA (San Jose), TX (Austin)","Frontend, Full-stack",https://jobs.ebayinc.com,Workday,Verify
+Chime,C,Fintech,"CA (SF), Remote",Frontend,https://careers.chime.com,Greenhouse,Verify
+Coinbase,C,Crypto / fintech,Remote-US,"Frontend, Full-stack",https://www.coinbase.com/careers,Greenhouse,High
+Comcast,C,Telecom / media,"Remote, PA","Full-stack, Frontend",https://jobs.comcast.com,Workday,Verify
+Dropbox,C,SaaS,Remote-US,Frontend,https://jobs.dropbox.com,Greenhouse,Verify
+Instacart,C,Consumer tech,"CA (SF), Remote",Frontend,https://instacart.careers,Greenhouse,Verify
+Lyft,C,Consumer tech,CA (SF),Frontend,https://www.lyft.com/careers,Greenhouse,Verify
+Netflix,C,Consumer tech,CA (Los Gatos),Frontend,https://jobs.netflix.com,Custom,Verify
+Notion,C,Productivity SaaS,CA (SF),"Frontend, Frontend+AI",https://www.notion.com/careers,Ashby,Verify
+Okta,C,Security SaaS,"CA (SF), Remote","Frontend, Full-stack",https://www.okta.com/company/careers,Greenhouse,Verify
+Plaid,C,Fintech,CA (SF),"Full-stack, Frontend",https://plaid.com/careers,Lever,Verify
+Reddit,C,Consumer tech,"Remote-US, CA",Frontend,https://www.redditinc.com/careers,Greenhouse,Verify
+Robinhood,C,Fintech,CA (Menlo Park),Frontend,https://careers.robinhood.com,Greenhouse,Verify
+Samsara,C,IoT SaaS,"CA (SF), Remote","Frontend, Full-stack",https://www.samsara.com/company/careers,Greenhouse,Verify
+Twilio,C,Communications SaaS,Remote-US,"Frontend, Full-stack",https://www.twilio.com/company/jobs,Greenhouse,Verify
+Zillow,C,Real estate tech,Remote-US,Frontend,https://www.zillow.com/careers,Workday,Verify
+Zoom,C,Communications SaaS,"CA (San Jose), Remote","Frontend, Frontend+AI",https://careers.zoom.us,Workday,Verify
