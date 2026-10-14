@@ -1,0 +1,564 @@
+{
+  "offset": 0,
+  "limit": 100,
+  "totalFound": 5,
+  "content": [
+    {
+      "id": "744000155353317",
+      "name": "Implementation Manager - Moveworks",
+      "uuid": "ea103c2f-6803-4e4d-a7ee-67696f941d89",
+      "jobAdId": "b5fab1a1-a1e7-4aba-b413-365c7b9b8d7e",
+      "defaultJobAd": true,
+      "refNumber": "JB0074513",
+      "company": {
+        "identifier": "ServiceNow",
+        "name": "ServiceNow"
+      },
+      "releasedDate": "2026-10-13T20:12:40.297Z",
+      "location": {
+        "city": "San Diego",
+        "region": "California",
+        "country": "us",
+        "address": "4810 Eastgate Mall",
+        "postalCode": "92121",
+        "remote": true,
+        "hybrid": false,
+        "fullLocation": "San Diego, California, United States"
+      },
+      "industry": {
+        "id": "it_and_services",
+        "label": "Information Technology And Services"
+      },
+      "department": {
+        "id": "2294004",
+        "label": "Customer Outcomes"
+      },
+      "function": {
+        "id": "consulting",
+        "label": "Consulting"
+      },
+      "typeOfEmployment": {
+        "id": "permanent",
+        "label": "Full-time"
+      },
+      "experienceLevel": {
+        "id": "not_applicable",
+        "label": "Not Applicable"
+      },
+      "customField": [
+        {
+          "fieldId": "60345fa28b4ba8595bef1863",
+          "fieldLabel": "Recruiting Team",
+          "valueId": "professional",
+          "valueLabel": "Professional"
+        },
+        {
+          "fieldId": "60345d5c5165a31b17288279",
+          "fieldLabel": "Region",
+          "valueId": "722a833b93e4437798309f43c0d25990",
+          "valueLabel": "AMS - North America and Canada"
+        },
+        {
+          "fieldId": "6034601b43915a29a4b3389b",
+          "fieldLabel": "Job Location",
+          "valueId": "L_SAN003",
+          "valueLabel": "4810 Eastgate Mall, San Diego, California, 92121, United States of America(L_SAN003)"
+        },
+        {
+          "fieldId": "60345e1a0b24a127cbdfa148",
+          "fieldLabel": "Employee Type",
+          "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+          "valueLabel": "Regular"
+        },
+        {
+          "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+          "fieldLabel": "Department",
+          "valueId": "2294004",
+          "valueLabel": "Customer Outcomes"
+        },
+        {
+          "fieldId": "COUNTRY",
+          "fieldLabel": "Country/Region",
+          "valueId": "us",
+          "valueLabel": "United States"
+        },
+        {
+          "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+          "fieldLabel": "Brands",
+          "valueId": "default",
+          "valueLabel": "ServiceNow"
+        },
+        {
+          "fieldId": "603462175165a31b1728827d",
+          "fieldLabel": "Cost Center",
+          "valueId": "CC2222",
+          "valueLabel": "2222 MVW Expert Services"
+        },
+        {
+          "fieldId": "618ed92b8f5e5f110e5bfb95",
+          "fieldLabel": "Work Persona",
+          "valueId": "5530c877-6b63-4bf5-bde8-215ef35bf172",
+          "valueLabel": "Flexible or Remote"
+        },
+        {
+          "fieldId": "690cc0e8c682c3dbadaa7d73",
+          "fieldLabel": "Job Posting Type",
+          "valueId": "professional",
+          "valueLabel": "Professional"
+        }
+      ],
+      "visibility": "PUBLIC",
+      "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000155353317",
+      "creator": {
+        "name": "Laura Hettinger-Akpele"
+      },
+      "language": {
+        "code": "en",
+        "label": "English",
+        "labelNative": "English (US)"
+      }
+    },
+    {
+      "id": "744000155374109",
+      "name": "Staff Software Engineer",
+      "uuid": "540d1a6d-4910-48a6-85d2-18d9334c0fc5",
+      "jobAdId": "0d812a41-338a-487d-9f08-14e614d31df8",
+      "defaultJobAd": true,
+      "refNumber": "JB0076150",
+      "company": {
+        "identifier": "ServiceNow",
+        "name": "ServiceNow"
+      },
+      "releasedDate": "2026-10-13T22:50:18.633Z",
+      "location": {
+        "city": "Santa Clara",
+        "region": "California",
+        "country": "us",
+        "address": "Building A,B,C 2225 Lawson Lane",
+        "postalCode": "95054",
+        "remote": false,
+        "hybrid": true,
+        "hybridDescription": "2 days in office",
+        "fullLocation": "Santa Clara, California, United States"
+      },
+      "industry": {
+        "id": "it_and_services",
+        "label": "Information Technology And Services"
+      },
+      "department": {
+        "id": "2294038",
+        "label": "Engineering, Infrastructure and Operations"
+      },
+      "function": {
+        "id": "engineering",
+        "label": "Engineering"
+      },
+      "typeOfEmployment": {
+        "id": "permanent",
+        "label": "Full-time"
+      },
+      "experienceLevel": {
+        "id": "not_applicable",
+        "label": "Not Applicable"
+      },
+      "customField": [
+        {
+          "fieldId": "60345fa28b4ba8595bef1863",
+          "fieldLabel": "Recruiting Team",
+          "valueId": "professional",
+          "valueLabel": "Professional"
+        },
+        {
+          "fieldId": "60345d5c5165a31b17288279",
+          "fieldLabel": "Region",
+          "valueId": "722a833b93e4437798309f43c0d25990",
+          "valueLabel": "AMS - North America and Canada"
+        },
+        {
+          "fieldId": "6034601b43915a29a4b3389b",
+          "fieldLabel": "Job Location",
+          "valueId": "L_SJC005",
+          "valueLabel": "2225 Lawson Lane, Santa Clara, California, 95054, United States of America(L_SJC005)"
+        },
+        {
+          "fieldId": "60345e1a0b24a127cbdfa148",
+          "fieldLabel": "Employee Type",
+          "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+          "valueLabel": "Regular"
+        },
+        {
+          "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+          "fieldLabel": "Department",
+          "valueId": "2294038",
+          "valueLabel": "Engineering, Infrastructure and Operations"
+        },
+        {
+          "fieldId": "COUNTRY",
+          "fieldLabel": "Country/Region",
+          "valueId": "us",
+          "valueLabel": "United States"
+        },
+        {
+          "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+          "fieldLabel": "Brands",
+          "valueId": "default",
+          "valueLabel": "ServiceNow"
+        },
+        {
+          "fieldId": "603462175165a31b1728827d",
+          "fieldLabel": "Cost Center",
+          "valueId": "CC6308",
+          "valueLabel": "6308 Platform Engineering App Lifecycle"
+        },
+        {
+          "fieldId": "618ed92b8f5e5f110e5bfb95",
+          "fieldLabel": "Work Persona",
+          "valueId": "bf7551c6-9b06-4e7c-8217-3baf43edd060",
+          "valueLabel": "Flexible"
+        },
+        {
+          "fieldId": "690cc0e8c682c3dbadaa7d73",
+          "fieldLabel": "Job Posting Type",
+          "valueId": "professional",
+          "valueLabel": "Professional"
+        }
+      ],
+      "visibility": "PUBLIC",
+      "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000155374109",
+      "creator": {
+        "name": "Tina Schneider"
+      },
+      "language": {
+        "code": "en",
+        "label": "English",
+        "labelNative": "English (US)"
+      }
+    },
+    {
+      "id": "744000155398439",
+      "name": "Advisory Pre-Sales Solution Consultant - Enterprise",
+      "uuid": "d0d4ce5f-bff2-4c89-9545-5e65db99bb5f",
+      "jobAdId": "48c989ba-a403-468c-a4a3-7f4139b7b8ea",
+      "defaultJobAd": true,
+      "refNumber": "JB0075995",
+      "company": {
+        "identifier": "ServiceNow",
+        "name": "ServiceNow"
+      },
+      "releasedDate": "2026-10-14T01:26:24.946Z",
+      "location": {
+        "city": "Melbourne",
+        "region": "Victoria",
+        "country": "au",
+        "address": "Olderfleet, Level 16, 477 Collins Street",
+        "postalCode": "3000",
+        "remote": false,
+        "hybrid": true,
+        "fullLocation": "Melbourne, Victoria, Australia"
+      },
+      "industry": {
+        "id": "it_and_services",
+        "label": "Information Technology And Services"
+      },
+      "department": {
+        "id": "2294208",
+        "label": "Sales"
+      },
+      "function": {
+        "id": "consulting",
+        "label": "Consulting"
+      },
+      "typeOfEmployment": {
+        "id": "permanent",
+        "label": "Full-time"
+      },
+      "experienceLevel": {
+        "id": "not_applicable",
+        "label": "Not Applicable"
+      },
+      "customField": [
+        {
+          "fieldId": "60345fa28b4ba8595bef1863",
+          "fieldLabel": "Recruiting Team",
+          "valueId": "professional",
+          "valueLabel": "Professional"
+        },
+        {
+          "fieldId": "60345d5c5165a31b17288279",
+          "fieldLabel": "Region",
+          "valueId": "858884996eea4a49baa6231279f39054",
+          "valueLabel": "APAC - Asia Pacific"
+        },
+        {
+          "fieldId": "6034601b43915a29a4b3389b",
+          "fieldLabel": "Job Location",
+          "valueId": "L_SYD002",
+          "valueLabel": "680 George Street, Sydney, 2000, Australia(L_SYD002)"
+        },
+        {
+          "fieldId": "60345e1a0b24a127cbdfa148",
+          "fieldLabel": "Employee Type",
+          "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+          "valueLabel": "Regular"
+        },
+        {
+          "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+          "fieldLabel": "Department",
+          "valueId": "2294208",
+          "valueLabel": "Sales"
+        },
+        {
+          "fieldId": "COUNTRY",
+          "fieldLabel": "Country/Region",
+          "valueId": "au",
+          "valueLabel": "Australia"
+        },
+        {
+          "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+          "fieldLabel": "Brands",
+          "valueId": "default",
+          "valueLabel": "ServiceNow"
+        },
+        {
+          "fieldId": "603462175165a31b1728827d",
+          "fieldLabel": "Cost Center",
+          "valueId": "CC3300",
+          "valueLabel": "3300 SC Field"
+        },
+        {
+          "fieldId": "618ed92b8f5e5f110e5bfb95",
+          "fieldLabel": "Work Persona",
+          "valueId": "bf7551c6-9b06-4e7c-8217-3baf43edd060",
+          "valueLabel": "Flexible"
+        },
+        {
+          "fieldId": "690cc0e8c682c3dbadaa7d73",
+          "fieldLabel": "Job Posting Type",
+          "valueId": "professional",
+          "valueLabel": "Professional"
+        }
+      ],
+      "visibility": "PUBLIC",
+      "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000155398439",
+      "language": {
+        "code": "en",
+        "label": "English",
+        "labelNative": "English (US)"
+      }
+    },
+    {
+      "id": "744000155375219",
+      "name": "Senior Manager, Partner Led Channel & Growth Operations",
+      "uuid": "3365d08a-d92e-4a6e-84c9-2808b4bbcc7e",
+      "jobAdId": "51a3257c-49d4-48a6-9c3b-a7db527e9f5f",
+      "defaultJobAd": true,
+      "refNumber": "JB0075981",
+      "company": {
+        "identifier": "ServiceNow",
+        "name": "ServiceNow"
+      },
+      "releasedDate": "2026-10-13T23:04:19.987Z",
+      "location": {
+        "city": "San Diego",
+        "region": "California",
+        "country": "us",
+        "address": "4810 Eastgate Mall",
+        "postalCode": "92121",
+        "remote": false,
+        "hybrid": false,
+        "fullLocation": "San Diego, California, United States"
+      },
+      "industry": {
+        "id": "it_and_services",
+        "label": "Information Technology And Services"
+      },
+      "department": {},
+      "function": {
+        "id": "sales",
+        "label": "Sales"
+      },
+      "typeOfEmployment": {
+        "id": "permanent",
+        "label": "Full-time"
+      },
+      "experienceLevel": {
+        "id": "not_applicable",
+        "label": "Not Applicable"
+      },
+      "customField": [
+        {
+          "fieldId": "60345fa28b4ba8595bef1863",
+          "fieldLabel": "Recruiting Team",
+          "valueId": "professional",
+          "valueLabel": "Professional"
+        },
+        {
+          "fieldId": "60345d5c5165a31b17288279",
+          "fieldLabel": "Region",
+          "valueId": "722a833b93e4437798309f43c0d25990",
+          "valueLabel": "AMS - North America and Canada"
+        },
+        {
+          "fieldId": "6034601b43915a29a4b3389b",
+          "fieldLabel": "Job Location",
+          "valueId": "L_SAN003",
+          "valueLabel": "4810 Eastgate Mall, San Diego, California, 92121, United States of America(L_SAN003)"
+        },
+        {
+          "fieldId": "60345e1a0b24a127cbdfa148",
+          "fieldLabel": "Employee Type",
+          "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+          "valueLabel": "Regular"
+        },
+        {
+          "fieldId": "COUNTRY",
+          "fieldLabel": "Country/Region",
+          "valueId": "us",
+          "valueLabel": "United States"
+        },
+        {
+          "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+          "fieldLabel": "Brands",
+          "valueId": "default",
+          "valueLabel": "ServiceNow"
+        },
+        {
+          "fieldId": "603462175165a31b1728827d",
+          "fieldLabel": "Cost Center",
+          "valueId": "CC3550",
+          "valueLabel": "3550 ACE Business Operations"
+        },
+        {
+          "fieldId": "618ed92b8f5e5f110e5bfb95",
+          "fieldLabel": "Work Persona",
+          "valueId": "5530c877-6b63-4bf5-bde8-215ef35bf172",
+          "valueLabel": "Flexible or Remote"
+        },
+        {
+          "fieldId": "690cc0e8c682c3dbadaa7d73",
+          "fieldLabel": "Job Posting Type",
+          "valueId": "professional",
+          "valueLabel": "Professional"
+        }
+      ],
+      "visibility": "PUBLIC",
+      "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000155375219",
+      "language": {
+        "code": "en",
+        "label": "English",
+        "labelNative": "English (US)"
+      }
+    },
+    {
+      "id": "744000155363900",
+      "name": "Senior Sales Enablement Manager- Moveworks",
+      "uuid": "2073c906-574d-46bc-aeaa-247e4334d7e3",
+      "jobAdId": "53bb5487-3b0d-4ebb-ab6c-d8726bf992f1",
+      "defaultJobAd": true,
+      "refNumber": "JB0073829",
+      "company": {
+        "identifier": "ServiceNow",
+        "name": "ServiceNow"
+      },
+      "releasedDate": "2026-10-13T21:12:20.690Z",
+      "location": {
+        "city": "London",
+        "country": "gb",
+        "address": "60 – 68 St Thomas Street EDGE London Bridge",
+        "postalCode": "SE1 3QU",
+        "remote": false,
+        "hybrid": true,
+        "fullLocation": "London, , United Kingdom"
+      },
+      "industry": {
+        "id": "it_and_services",
+        "label": "Information Technology And Services"
+      },
+      "department": {
+        "id": "2294208",
+        "label": "Sales"
+      },
+      "function": {
+        "id": "sales",
+        "label": "Sales"
+      },
+      "typeOfEmployment": {
+        "id": "permanent",
+        "label": "Full-time"
+      },
+      "experienceLevel": {
+        "id": "not_applicable",
+        "label": "Not Applicable"
+      },
+      "customField": [
+        {
+          "fieldId": "60345fa28b4ba8595bef1863",
+          "fieldLabel": "Recruiting Team",
+          "valueId": "professional",
+          "valueLabel": "Professional"
+        },
+        {
+          "fieldId": "60345d5c5165a31b17288279",
+          "fieldLabel": "Region",
+          "valueId": "395ee3093de740ba9cb8b3d35cb67e2d",
+          "valueLabel": "EMEA - Europe, Middle East and Africa"
+        },
+        {
+          "fieldId": "6034601b43915a29a4b3389b",
+          "fieldLabel": "Job Location",
+          "valueId": "L_LON001",
+          "valueLabel": "8 Salisbury Square, London, EC4Y 8BB, United Kingdom(L_LON001)"
+        },
+        {
+          "fieldId": "60345e1a0b24a127cbdfa148",
+          "fieldLabel": "Employee Type",
+          "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+          "valueLabel": "Regular"
+        },
+        {
+          "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+          "fieldLabel": "Department",
+          "valueId": "2294208",
+          "valueLabel": "Sales"
+        },
+        {
+          "fieldId": "COUNTRY",
+          "fieldLabel": "Country/Region",
+          "valueId": "gb",
+          "valueLabel": "United Kingdom"
+        },
+        {
+          "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+          "fieldLabel": "Brands",
+          "valueId": "default",
+          "valueLabel": "ServiceNow"
+        },
+        {
+          "fieldId": "603462175165a31b1728827d",
+          "fieldLabel": "Cost Center",
+          "valueId": "CC6754",
+          "valueLabel": "6754 MVW Admin"
+        },
+        {
+          "fieldId": "618ed92b8f5e5f110e5bfb95",
+          "fieldLabel": "Work Persona",
+          "valueId": "bf7551c6-9b06-4e7c-8217-3baf43edd060",
+          "valueLabel": "Flexible"
+        },
+        {
+          "fieldId": "690cc0e8c682c3dbadaa7d73",
+          "fieldLabel": "Job Posting Type",
+          "valueId": "professional",
+          "valueLabel": "Professional"
+        }
+      ],
+      "visibility": "PUBLIC",
+      "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000155363900",
+      "language": {
+        "code": "en",
+        "label": "English",
+        "labelNative": "English (US)"
+      }
+    }
+  ]
+}
