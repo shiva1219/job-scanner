@@ -76,3 +76,23 @@ test('invalid values are rejected by the schema', () => {
                                   VALUES (1, 'claude-code', 'v1', 'x', 150, 'APPLY')`).run(), /CHECK/);
   assert.throws(() => db.prepare("INSERT INTO applications (job_id, status) VALUES (1, 'maybe')").run(), /CHECK/);
 });
+
+test('platform IDs round-trip through export and reseed', async () => {
+  const { exportCompanies } = await import('../src/db/seed.js');
+  const db = freshDb();
+  db.prepare(`UPDATE companies SET ats = 'workday', workday_host = 'capitalone.wd12.myworkdayjobs.com',
+              workday_site = 'Capital_One', ats_verified = 1 WHERE name = 'Capital One'`).run();
+  const out = exportCompanies(db, csv);
+  const db2 = openDb(':memory:');
+  seedCompanies(db2, out);
+  const row = db2.prepare("SELECT ats, workday_host, workday_site, ats_verified FROM companies WHERE name = 'Capital One'").get() as any;
+  assert.deepEqual(row, { ats: 'workday', workday_host: 'capitalone.wd12.myworkdayjobs.com', workday_site: 'Capital_One', ats_verified: 1 });
+});
+
+test('reseeding with an empty ats column keeps detected IDs', () => {
+  const db = freshDb();
+  db.prepare(`UPDATE companies SET ats = 'ashby', ats_id = 'plaid' WHERE name = 'Plaid'`).run();
+  seedCompanies(db, csv);
+  const row = db.prepare("SELECT ats, ats_id FROM companies WHERE name = 'Plaid'").get() as any;
+  assert.deepEqual(row, { ats: 'ashby', ats_id: 'plaid' });
+});
