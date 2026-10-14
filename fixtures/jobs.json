@@ -1,0 +1,322 @@
+[
+  {
+    "company": "Capital One",
+    "externalId": "CO-1001",
+    "title": "Lead Software Engineer, Full Stack (React/Node)",
+    "location": "Plano, TX",
+    "isRemote": false,
+    "url": "https://example.com/jobs/CO-1001",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "Build customer-facing banking experiences with React, TypeScript and Node.js on AWS. Lead a team of engineers, own architecture for micro-frontends, mentor developers, and partner with product and design. 8+ years of web development. Experience with REST APIs, CI/CD, Docker and observability.",
+    "expected": {
+      "filterPass": true,
+      "sponsorshipFlag": false,
+      "verdict": "APPLY",
+      "note": "Strong stack and seniority match"
+    }
+  },
+  {
+    "company": "JPMorgan Chase",
+    "externalId": "JPM-2002",
+    "title": "Software Engineer III - Frontend React",
+    "location": "Plano, TX",
+    "isRemote": false,
+    "url": "https://example.com/jobs/JPM-2002",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "Design and deliver React and TypeScript applications for Consumer & Community Banking. Redux state management, Jest testing, accessibility, and performance tuning. Work with Java microservices teams on API contracts. 5+ years experience.",
+    "expected": {
+      "filterPass": true,
+      "sponsorshipFlag": false,
+      "verdict": "APPLY",
+      "note": "Frontend React at a bank, TX"
+    }
+  },
+  {
+    "company": "Fidelity Investments",
+    "externalId": "FID-3003",
+    "title": "Principal Software Engineer - Angular",
+    "location": "Westlake, TX",
+    "isRemote": false,
+    "url": "https://example.com/jobs/FID-3003",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "Lead architecture of Angular 17 applications with NgRx and RxJS for Personal Investing. Drive micro-frontend strategy, set engineering standards, review code, and mentor engineers. Node.js BFF experience and AWS a plus.",
+    "expected": {
+      "filterPass": true,
+      "sponsorshipFlag": false,
+      "verdict": "APPLY",
+      "note": "Angular principal role, TX"
+    }
+  },
+  {
+    "company": "Pinterest",
+    "externalId": "PIN-4004",
+    "title": "Sr. Software Engineer, Web",
+    "location": "Remote, US",
+    "isRemote": true,
+    "url": "https://example.com/jobs/PIN-4004",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "Build user-facing features for Desktop and Mobile Web in React and Redux. Own projects end to end from prototyping and A/B testing to scaling. Use AI thoughtfully for prototyping and documentation, and validate AI-assisted work. 5+ years of web development.",
+    "expected": {
+      "filterPass": true,
+      "sponsorshipFlag": false,
+      "verdict": "APPLY",
+      "note": "Target role from your JD file"
+    }
+  },
+  {
+    "company": "Salesforce",
+    "externalId": "SF-5005",
+    "title": "Senior Member of Technical Staff - Frontend (Agentforce)",
+    "location": "San Francisco, CA",
+    "isRemote": false,
+    "url": "https://example.com/jobs/SF-5005",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "Build conversational and agent user interfaces for Agentforce using Lightning Web Components and TypeScript. Integrate LLM responses with streaming UI, evaluate quality, and partner with AI platform teams. 7+ years frontend experience.",
+    "expected": {
+      "filterPass": true,
+      "sponsorshipFlag": false,
+      "verdict": "APPLY",
+      "note": "Unusual title; filter must keep it"
+    }
+  },
+  {
+    "company": "Toyota North America",
+    "externalId": "TOY-6006",
+    "title": "Senior Full Stack Engineer",
+    "location": "Plano, TX",
+    "isRemote": false,
+    "url": "https://example.com/jobs/TOY-6006",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "Develop connected-vehicle web apps with React, Node.js and AWS. Applicants must be authorized to work in the U.S. without sponsorship now or in the future.",
+    "expected": {
+      "filterPass": true,
+      "sponsorshipFlag": true,
+      "verdict": "SKIP",
+      "note": "No sponsorship"
+    }
+  },
+  {
+    "company": "AT&T",
+    "externalId": "ATT-7007",
+    "title": "Lead Frontend Developer",
+    "location": "Dallas, TX",
+    "isRemote": false,
+    "url": "https://example.com/jobs/ATT-7007",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "Lead Angular and React development for consumer billing portals. U.S. citizenship required due to contract requirements.",
+    "expected": {
+      "filterPass": true,
+      "sponsorshipFlag": true,
+      "verdict": "SKIP",
+      "note": "Citizens only"
+    }
+  },
+  {
+    "company": "IBM",
+    "externalId": "IBM-8008",
+    "title": "Senior Software Engineer - Web (Federal)",
+    "location": "Austin, TX",
+    "isRemote": false,
+    "url": "https://example.com/jobs/IBM-8008",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "Build React dashboards for a federal client. Must hold an active Secret security clearance.",
+    "expected": {
+      "filterPass": true,
+      "sponsorshipFlag": true,
+      "verdict": "SKIP",
+      "note": "Clearance"
+    }
+  },
+  {
+    "company": "Accenture",
+    "externalId": "ACN-9009",
+    "title": "Full Stack Developer (Contract, C2C)",
+    "location": "Remote, US",
+    "isRemote": true,
+    "url": "https://example.com/jobs/ACN-9009",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "6-month contract, C2C or 1099. React, Node.js, AWS. Immediate start.",
+    "expected": {
+      "filterPass": true,
+      "sponsorshipFlag": true,
+      "verdict": "SKIP",
+      "note": "Contract / C2C"
+    }
+  },
+  {
+    "company": "Visa",
+    "externalId": "VISA-1010",
+    "title": "Senior Software Engineer - Payments UI",
+    "location": "Austin, TX",
+    "isRemote": false,
+    "url": "https://example.com/jobs/VISA-1010",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "Build payment experiences with React and TypeScript, own frontend performance and reliability, and collaborate with API teams. Visa sponsorship is available for this role.",
+    "expected": {
+      "filterPass": true,
+      "sponsorshipFlag": false,
+      "verdict": "APPLY",
+      "note": "Says sponsorship IS available; must not be flagged"
+    }
+  },
+  {
+    "company": "Amazon / AWS",
+    "externalId": "AMZ-1111",
+    "title": "Data Scientist II",
+    "location": "Austin, TX",
+    "isRemote": false,
+    "url": "https://example.com/jobs/AMZ-1111",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "Build statistical models and run experiments using Python and SQL.",
+    "expected": {
+      "filterPass": false,
+      "sponsorshipFlag": false,
+      "verdict": "SKIP",
+      "note": "Wrong role family"
+    }
+  },
+  {
+    "company": "Apple",
+    "externalId": "APL-1212",
+    "title": "iOS Engineer",
+    "location": "Austin, TX",
+    "isRemote": false,
+    "url": "https://example.com/jobs/APL-1212",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "Develop iOS apps in Swift and SwiftUI.",
+    "expected": {
+      "filterPass": false,
+      "sponsorshipFlag": false,
+      "verdict": "SKIP",
+      "note": "Wrong platform"
+    }
+  },
+  {
+    "company": "Goldman Sachs",
+    "externalId": "GS-1313",
+    "title": "Vice President, Software Engineering - UI",
+    "location": "Dallas, TX",
+    "isRemote": false,
+    "url": "https://example.com/jobs/GS-1313",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "Lead UI engineering for Transaction Banking using React, TypeScript and a shared design system. Own architecture decisions, mentor engineers, and work with Java service teams.",
+    "expected": {
+      "filterPass": true,
+      "sponsorshipFlag": false,
+      "verdict": "APPLY",
+      "note": "Bank VP title = senior IC"
+    }
+  },
+  {
+    "company": "Citi",
+    "externalId": "CITI-1414",
+    "title": "Software Engineer Intern",
+    "location": "Irving, TX",
+    "isRemote": false,
+    "url": "https://example.com/jobs/CITI-1414",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "Summer internship for students pursuing a degree in Computer Science.",
+    "expected": {
+      "filterPass": false,
+      "sponsorshipFlag": false,
+      "verdict": "SKIP",
+      "note": "Intern"
+    }
+  },
+  {
+    "company": "Wells Fargo",
+    "externalId": "WF-1515",
+    "title": "Senior Lead Software Engineer - Java Backend",
+    "location": "Irving, TX",
+    "isRemote": false,
+    "url": "https://example.com/jobs/WF-1515",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "Design Java 17 and Spring Boot microservices with Kafka and Oracle databases. Deep backend performance tuning. Frontend experience not required.",
+    "expected": {
+      "filterPass": true,
+      "sponsorshipFlag": false,
+      "verdict": "SKIP",
+      "note": "Java-heavy backend; borderline"
+    }
+  },
+  {
+    "company": "Stripe",
+    "externalId": "STR-1616",
+    "title": "Frontend Engineer",
+    "location": "New York, NY",
+    "isRemote": false,
+    "url": "https://example.com/jobs/STR-1616",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "Build Stripe Dashboard features with React and TypeScript. This role is in-office in New York.",
+    "expected": {
+      "filterPass": false,
+      "sponsorshipFlag": false,
+      "verdict": "SKIP",
+      "note": "Location outside targets"
+    }
+  },
+  {
+    "company": "Garmin",
+    "externalId": "GAR-1717",
+    "title": "Software Engineer 2 - Web",
+    "location": "Olathe, KS",
+    "isRemote": false,
+    "url": "https://example.com/jobs/GAR-1717",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "Develop web applications with Angular and TypeScript for fitness products. 2+ years experience.",
+    "expected": {
+      "filterPass": true,
+      "sponsorshipFlag": false,
+      "verdict": "APPLY_WITH_REFERRAL",
+      "note": "Local but junior level"
+    }
+  },
+  {
+    "company": "Oracle (incl. Oracle Health)",
+    "externalId": "ORA-1818",
+    "title": "Senior Software Developer - UI",
+    "location": "Kansas City, MO",
+    "isRemote": false,
+    "url": "https://example.com/jobs/ORA-1818",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "Build clinical web applications with Oracle JET, JavaScript and TypeScript. REST APIs and accessibility for healthcare users.",
+    "expected": {
+      "filterPass": true,
+      "sponsorshipFlag": false,
+      "verdict": "APPLY_WITH_REFERRAL",
+      "note": "Local, different framework"
+    }
+  },
+  {
+    "company": "Adobe",
+    "externalId": "ADB-1919",
+    "title": "Senior AI Product Engineer",
+    "location": "Remote, US",
+    "isRemote": true,
+    "url": "https://example.com/jobs/ADB-1919",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "Ship generative AI features in Adobe Express web using React and TypeScript. Integrate LLM APIs, build agentic workflows, measure quality with evaluations, and prototype quickly.",
+    "expected": {
+      "filterPass": true,
+      "sponsorshipFlag": false,
+      "verdict": "APPLY",
+      "note": "Frontend + AI hybrid"
+    }
+  },
+  {
+    "company": "USAA",
+    "externalId": "USAA-2020",
+    "title": "Senior Software Engineer - Frontend",
+    "location": "San Antonio, TX",
+    "isRemote": false,
+    "url": "https://example.com/jobs/USAA-2020",
+    "postedAt": "2026-10-12T00:00:00Z",
+    "description": "Build member-facing React applications for banking and insurance. The employer will not sponsor applicants for employment visa status.",
+    "expected": {
+      "filterPass": true,
+      "sponsorshipFlag": true,
+      "verdict": "SKIP",
+      "note": "No sponsorship"
+    }
+  }
+]

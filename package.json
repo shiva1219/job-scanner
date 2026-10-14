@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "db:seed": "tsx scripts/seed-companies.ts",
-    "typecheck": "tsc --noEmit"
+    "db:fixtures": "tsx scripts/load-fixtures.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test tests/*.test.ts"
   },
   "dependencies": {
     "better-sqlite3": "^11.3.0",
